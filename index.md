@@ -63,4 +63,4 @@ The *Field Guide* was designed to be a stripped-down, data-first, no-frills surv
 
 The *Field Manual* is an expanded version with more contextual information including a detailed look at space-flown Rolex, considerably more photos and in a larger hardcover format. This is a 2lb desk reference in the style of a coffee table book.
 
-Both books are also available in digital EPUB formats which can be purchased from [Apple Bookstore](https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756) and Google Play.
+Both books are also available in digital EPUB formats which can be purchased from [Apple Bookstore](https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756), the Amazon Kindle Store, and Google Play.
