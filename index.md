@@ -11,9 +11,4 @@
 - [Buy on Amazon](https://www.amazon.com/dp/0578524805/)
 
 ## Rolex Vintage Guía Práctica Edición Clásica En Español
-|
-- ISBN: 978-0578670508
-- Talla: 7.5 x 0.7 x 9.2 inches
-- Peso: 1.3 lbs
-- [Cómpralo en Amazon](https://www.amazon.com/Gu%C3%ADa-Pr%C3%A1ctica-Rolex-Vintage-supervivencia/dp/057867050X/)
-| ![images/vrfg-ES-cover.jpg] |
+| ISBN: 978-0578670508 <br> Talla: 7.5 x 0.7 x 9.2 inches <br> Peso: 1.3 lbs <br> [Cómpralo en Amazon](https://www.amazon.com/Gu%C3%ADa-Pr%C3%A1ctica-Rolex-Vintage-supervivencia/dp/057867050X/) | ![](images/vrfg-ES-cover.jpg) |
