@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Notes, Announcements and Comments
+# The Vintage Rolex Field Manual Chevalier Edition 
 
 You can use the [editor on GitHub](https://github.com/morningtundra/vrfmblog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
