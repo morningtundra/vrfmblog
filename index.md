@@ -7,7 +7,7 @@
         Weight: 2.5 lbs<br>
         Format: Hardcover<br>
         Publish: 2020<br>
-        <img src="images/amz-icon.png" width = "50">
+        <img src="images/amz-icon.png" width = "25">
         <A href="https://www.amazon.com/Vintage-Rolex-Field-Manual-Collectors/dp/0578630826/">Buy on Amazon</a>
     </th>
     <th>
