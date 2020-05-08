@@ -66,14 +66,14 @@ The *Field Manual* is an expanded version with more contextual information inclu
 
 Both books are also available in digital EPUB formats which can be purchased from [Apple Bookstore](https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756), the Amazon Kindle Store, and Google Play.
 
+## If you'd like to reference or review this book
+If you'd like to write about or otherwise review these books you are free to use these large format images. If you'd like quotes or comments from the author, you can reach out to me at morningtundra@gmail.com. You can also send me a message on Instagram [@morning_tundra](https://www.instagram.com/morning_tundra/).
 <p>
-<img src="images/vrfg-1.jpg" width="150" hspace="5"><img src="images/vrfg-2.jpg" width="150" hspace="5">
+<img src="images/vrfg-1.jpg" width="175" hspace="5"><img src="images/vrfg-2.jpg" width="175" hspace="5">
 </p>
-
 <p>
-<img src="images/vrfm-1.jpg" width="150" hspace="5"><img src="images/vrfm-2.jpg" width="150" hspace="5">
+<img src="images/vrfm-1.jpg" width="175" hspace="5"><img src="images/vrfm-2.jpg" width="175" hspace="5">
 </p>
-
 <p>
-<img src="images/vrfg-es-1.jpg" width="150" hspace="5"><img src="images/vrfg-es-2.jpg" width="150" hspace="5">
+<img src="images/vrfg-es-1.jpg" width="175" hspace="5"><img src="images/vrfg-es-2.jpg" width="175" hspace="5">
 </p>
