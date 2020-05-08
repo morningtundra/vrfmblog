@@ -67,13 +67,13 @@ The *Field Manual* is an expanded version with more contextual information inclu
 Both books are also available in digital EPUB formats which can be purchased from [Apple Bookstore](https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756), the Amazon Kindle Store, and Google Play.
 
 <p>
-<img src="images/vrfg-1.jpg" width="250" hspace="5"><img src="images/vrfg-2.jpg" width="250" hspace="5">
+<img src="images/vrfg-1.jpg" width="150" hspace="5"><img src="images/vrfg-2.jpg" width="150" hspace="5">
 </p>
 
 <p>
-<img src="images/vrfm-1.jpg" width="250" hspace="5"><img src="images/vrfm-2.jpg" width="250" hspace="5">
+<img src="images/vrfm-1.jpg" width="150" hspace="5"><img src="images/vrfm-2.jpg" width="150" hspace="5">
 </p>
 
 <p>
-<img src="images/vrfg-es-1.jpg" width="250" hspace="5"><img src="images/vrfg-es-2.jpg" width="250" hspace="5">
+<img src="images/vrfg-es-1.jpg" width="150" hspace="5"><img src="images/vrfg-es-2.jpg" width="150" hspace="5">
 </p>
