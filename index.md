@@ -58,9 +58,22 @@
 </tr>
 </table>
 
+
 ## What's the difference between the GUIDE and the MANUAL?
 The *Field Guide* was designed to be a stripped-down, data-first, no-frills survival guide. This smaller sized paperback can be carried to watch fairs and auctions and referenced as needed. There is sufficient 'white space' to write in the margins and take notes.
 
 The *Field Manual* is an expanded version with more contextual information including a detailed look at space-flown Rolex, considerably more photos and in a larger hardcover format. This is a 2lb desk reference in the style of a coffee table book.
 
 Both books are also available in digital EPUB formats which can be purchased from [Apple Bookstore](https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756), the Amazon Kindle Store, and Google Play.
+
+<p>
+<img src="images/vrfg-1.jpg" width="250" hspace="5"><img src="images/vrfg-2.jpg" width="250" hspace="5">
+</p>
+
+<p>
+<img src="images/vrfm-1.jpg" width="250" hspace="5"><img src="images/vrfm-2.jpg" width="250" hspace="5">
+</p>
+
+<p>
+<img src="images/vrfg-es-1.jpg" width="250" hspace="5"><img src="images/vrfg-es-2.jpg" width="250" hspace="5">
+</p>
