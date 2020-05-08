@@ -27,7 +27,7 @@ If you want to charge a premium price then it needs to be perceived as **much** 
 
 How you actually perform research depends entirely on the topic. Researching a travel guide needs field work. Researching a cookbook needs kitchen experimentation. This is knowledge acquisition and beyond the scope of this guide.
 
-## Assessing Competition 
+## [Assessing Competitive Landscape](#assessing-competitive-landscape)
 The first step is to search Amazon, then visit your local library and one or more book stores. You’re trying to answer the question, “Is this genre overcrowded?”. It’s ok to find lots of books but not ok if you find hundreds of books. 
 
 Amazon returns over 9,000 results for "books on programming for the web" but 52 results for "books on vintage watch collecting". You want to validate demand but don’t want to take on intense and established competition.
@@ -51,7 +51,7 @@ Pay attention to the cheapest titles with the worst or fewest reviews. Can you i
 * Weak back blurb
 * Incorrect, missing, incomplete content
 
-## Book Architecture
+## [Book Architecture](#book-architecture)
 In Google Docs, write out what your Table of Contents page would look like. You’ll have an idea of what should be in the Beginning, Middle and End based on the competing titles you examined when assessing the competitive landscape. This exercise is called “stubbing out the manuscript” and will give you a skeleton framework for your book. You’ll have Chapters, Sections and Subsections with provisional titles.
 
 You'll find this super helpful when you get to [Writing](Writing.md).
@@ -74,7 +74,7 @@ Depending on the design choices you make later, this will cover approximately 25
 
 Production costs (editing, design, printing) are directly related to word count. A large book cost more to produce. Digital POD companies will price a color book assuming all pages are full color (not on the amount of ink actually used). While ***less is more*** it makes sense to take advantage of what you will pay for.
 
-## Pricing
+## [Pricing](#pricing)
 Are the highest priced books in your genre expensive to produce? It’s possible the most expensive books have a low profit margin for the author. It’s also reasonable to assume the cheapest books have very modest profit margins too.
 
 If you want to turn a profit, you want a book that’s not too expensive to print and yet priced attractively compared to others on the same shelf.
@@ -89,7 +89,7 @@ The final retail price will be a trade-off between actual production cost, retai
 * Your authors margin
 
 
-## Audience Research
+## [Audience Research](#audience-research)
 It's a tired cliche to tell you to get to know your audience. After all, you're writing a book you yourself are interested in, and likely to buy. The question is, are you a complete weird, oddball, one of a kinda? Chances are, no. None of us are unique, individual or special enough to be a tribe of one.
 
 So what does your tribe look for and how do they behave? The most obvious place to look are internet forums. There are forums on every conceivable niche interest and they can look like Facebook Groups to Newsletters. The questions you're looking to answer are,
@@ -104,7 +104,7 @@ If you find relatively few communities with low traffic, this does not bode well
 
 There are techniques later describing how to extract value from these spammy notifications and email communications.
 
-## Self vs Traditional Publishing
+## [Self vs Traditional Publishing](#self-vs-traditional-publishing)
 
 Never pay someone to publish your work. Period. A print or publishing company that asks you to do this is a vanity press and should be avoided.
 
@@ -132,7 +132,7 @@ The scope of their services ranges from all-in to more specialized and focused. 
 * Marketing & Advertising
 * Tech support & Service Desk
 
-## Wide vs Narrow Distribution
+## [Wide vs Narrow Distribution](#wide-vs-narrow-distribution)
 
 Wide distribution makes your book available to multiple  retailers. This includes online like Amazon and Apple, as well as brick and mortar stores like Barnes & Noble and Waterstones.
 
@@ -142,7 +142,7 @@ Each strategy has distinct advantages. Seasoned self-published authors advocate 
 
 The complexity of managing multiple channels is not worth it for your first or even second book. It is a strategy worth examining once you've achieved relative success and want to optimize your burgeoning business to maximize profit.
 
-## Print vs Digital
+## [Print vs Digital](#print-vs-digital)
 
 For the non-fiction genre, you should prioritize and target print format before digital or electronic formats (this is reverse for fiction). 
 
@@ -158,12 +158,9 @@ For the non-fiction genre, you should prioritize and target print format before 
 
 The prevailing advice is to focus on producing a high quality print book. Depending on the final result, choose which electronic format best suites your print version.
 
+## [Language Translations](#language-translations)
 
-
-
-## Language Translations
-
-According to [Wikipedia](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers) these are the top 3 most widely spoken languages.
+According to [Wikipedia](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers) these are the top 3 most widely spoken languages. You'll have to judge for yourself what you think the market opportunity is for your book.
 
 |Language|Speakers|% of Population|
 |:---:|:---:|:---:|
@@ -171,4 +168,4 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/List_of_languages_by_numb
 |Spanish|~480M|~6%|
 |English|~379M|~5%|
 
-For a Spanish language translations, I recommend Juan José Díaz Mateo (jj.mateos@hotmail.com)
+For a Spanish language translations, I recommend *Juan José Díaz Mateo* (jj.mateos@hotmail.com)
