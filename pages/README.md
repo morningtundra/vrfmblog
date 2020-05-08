@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # Self-Publishing Non-Fiction
 
