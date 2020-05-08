@@ -1,3 +1,6 @@
+---
+layout: default 
+---
 # Editing
 Editing books is a professional craft, and while many people can proof-read and offer you feedback, it is definitely worth paying a dispassionate and neutral professional. 
 

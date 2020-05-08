@@ -1,5 +1,6 @@
-# Design
-
+---
+layout: default 
+---# Design
  - [Design Brief](#design-brief)
  - [Cover Design & Dust Jackets](#cover-design--dust-jackets)
  - [Interior Book Design](#interior-book-design)

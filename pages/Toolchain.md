@@ -1,3 +1,6 @@
+---
+layout: default 
+---
 # Tool Chain
 Like any craft, hobby or project, skills proficiency is half the battle. Once you've mastered the tools your enjoyment, creativity and productivity will really begin to take off.
 

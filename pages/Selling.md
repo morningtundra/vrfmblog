@@ -1,3 +1,6 @@
+---
+layout: default 
+---
 # Selling
 If your goal is to see your name on the cover of your work or the shelves of a bookstore, you are a vanity author and you can ignore this section.
 

@@ -1,3 +1,6 @@
+---
+layout: default 
+---
 # Marketing
  - [Lead Magnets](#lead-magnets)
  - [Social Media Footprint](#social-media-footprint)

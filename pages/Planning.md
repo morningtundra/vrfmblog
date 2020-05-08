@@ -1,5 +1,7 @@
+---
+layout: default 
+---
 # Planning
-
   - [Topic Research](#topic-research)
   - [Assessing Competitive Landscape](#assessing-competitive-landscape)
   - [Book Architecture](#book-architecture)

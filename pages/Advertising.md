@@ -1,3 +1,6 @@
+---
+layout: default 
+---
 # Advertising
 
 Amazon Advertizing Services

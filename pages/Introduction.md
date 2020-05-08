@@ -1,3 +1,6 @@
+---
+layout: default 
+---
 # Introduction
 
 This is for independent and self-published authors of *non-fiction* books. If you're a fiction author you might get some ideas but it's not aimed at you. The workflow, tools and philosophy are specific for non-fiction work.

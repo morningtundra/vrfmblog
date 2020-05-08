@@ -1,3 +1,6 @@
+---
+layout: default 
+---
 # Crowdsourcing
 
 This should not be confused with crowdfunding or outsourcing. 

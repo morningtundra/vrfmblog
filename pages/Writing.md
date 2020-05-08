@@ -1,3 +1,6 @@
+---
+layout: default 
+---
 # Writing
 
 - [Writing](#writing)
