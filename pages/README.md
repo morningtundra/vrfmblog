@@ -7,7 +7,7 @@ A formulary for independent authors to self-publish non-fiction books. This is b
 This guide is *not* designed to be read end to end, front to back. Dip into the Sections relevant to the stage you're at. It's a reference guide, not a novel.
 
 ## Table of Contents
-* [Introduction](Introduction.md "The FAQ")
+* [Introduction](Introduction)
 * [Planning](Planning.md)
 * [Writing](Writing.md)
 * [Crowdsourcing](Crowding.md)
