@@ -7,6 +7,7 @@
         Weight: 2.5 lbs<br>
         Format: Hardcover<br>
         Published: 2020<br>
+        <p>&nbsp;</p>
         <p>
         <img style="vertical-align:middle" src="images/amz-icon.png" width = "25">
         <A href="https://www.amazon.com/Vintage-Rolex-Field-Manual-Collectors/dp/0578630826/">Buy on Amazon</a>
@@ -27,6 +28,7 @@
         Weight: 1.3 lbs<br>
         Format: Paperback<br>
         Published: 2019<br>
+        <p>&nbsp;</p>
         <p>
         <img style="vertical-align:middle" src="images/amz-icon.png" width = "25">
         <a href="https://www.amazon.com/dp/0578524805/">Buy on Amazon</a>
@@ -47,6 +49,7 @@
         Peso: 1.3 lbs <br> 
         Formato: libro de bolsillo<br>
         Published: 2020<br>
+        <p>&nbsp;</p>
         <p>
         <img style="vertical-align:middle" src="images/amz-icon.png" width = "25">
         <a href="https://www.amazon.com/Gu%C3%ADa-Pr%C3%A1ctica-Rolex-Vintage-supervivencia/dp/057867050X/">Cómpralo en Amazon </a>
@@ -58,7 +61,7 @@
 </tr>
 </table>
 
-## Where Else Can I Buy?
+## Where Else Can I Buy These Books?
 <table>
 <tr>
    <th>&nbsp;</th>
@@ -96,9 +99,10 @@
     <td><center><a href="https://www.abebooks.com/servlet/SearchResults?cm_sp=SearchF-_-topnav-_-Results&ds=20&kn=978-0578524801&sts=t">✔</a></center></td>
     <td><center><a href="https://www.abebooks.com/servlet/SearchResults?cm_sp=SearchF-_-topnav-_-Results&ds=20&kn=978-0578670508&sts=t">✔</a></center></td> 
 </tr>
-
 </table>
-
+<p>
+Used copies of these books can also be found on Ebay.
+</p>
 
 ## What's the difference between the GUIDE and the MANUAL?
 The *Field Guide* was designed to be a stripped-down, data-first, no-frills survival guide. This smaller sized paperback can be carried to watch fairs and auctions and referenced as needed. There is sufficient 'white space' to write in the margins and take notes.
