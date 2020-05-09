@@ -124,7 +124,7 @@ If you operate an eCommerce shop or website, the easiest way is to join [Amazon 
 
 If you run a boutique or other retail or pop-up store, you can order a retail carton of nine books at 30% off the cover price. With this you carry your own inventory and set your own price. Email morningtundra@gmail.com for details.
 
-## If you'd like to  or review this book
+## If you'd like to feature or review this book
 If you run a website, blog, podcast, or YouTube channel and would to like review these books you are free to use these large format images. If you'd like quotes or comments from the author, you can reach out to me at morningtundra@gmail.com. You can also send me a message on Instagram [@morning_tundra](https://www.instagram.com/morning_tundra/).
 <p>
 <img src="images/vrfg-1.jpg" width="200" hspace="5"><img src="images/vrfg-2.jpg" width="200" hspace="5">
