@@ -62,9 +62,9 @@
 <table>
 <tr>
    <th>&nbsp;</th>
-   <th>Chevalier Field Manual<br/><small>ISBN: 978-0578630823</small></th>
-   <th>Classic Field Guide<br/><small>ISBN: 978-0578524801</small></th>
-   <th>Rolex Vintage Guía Práctica<br/><small>ISBN: 978-0578670508</small></th>
+   <th><img src="images/vrfm-cover.jpg" width="75"></th>
+   <th><img src="images/vrfg-cover.jpg" width="75"></th>
+   <th><img src="images/vrfg-es-cover.jpg" width="75"></th>
 </tr>
 <tr>
     <td>Barnes & Nobel</td> 
@@ -81,8 +81,8 @@
 <tr>
 <td>Wallmart</td>
     <td><center><a href="https://www.walmart.com/ip/Chevalier-The-Vintage-Rolex-Field-Manual-Hardcover-9780578630823/714862291">&#10004;</a></center></td>
-    <td><center><a href="https://www.walmart.com/ip/Field-Guides-The-Vintage-Rolex-Field-Guide-Paperback-9780578524801/906349964">✔</a></center></td>
-    <td><center><a href="https://www.walmart.com/ip/Classic-Gu-a-Pr-ctica-del-Rolex-Vintage-Un-manual-de-supervivencia-para-la-aventura-del-Rolex-vintage-Paperback-9780578670508/274677974">✔</a></center></td>
+    <td><center><a href="https://www.walmart.com/ip/Field-Guides-The-Vintage-Rolex-Field-Guide-Paperback-9780578524801/906349964">&#10004;</a></center></td>
+    <td><center><a href="https://www.walmart.com/ip/Classic-Gu-a-Pr-ctica-del-Rolex-Vintage-Un-manual-de-supervivencia-para-la-aventura-del-Rolex-vintage-Paperback-9780578670508/274677974">&#10004;</a></center></td>
 </tr>
 <tr>
     <td>Adlibris</td>
