@@ -14,7 +14,9 @@
         </p>
     </th>
     <th>
-        <img src="images/vrfm-cover.jpg" width="200">
+        <img src="images/vrfm-cover.jpg" width="200"
+        onmouseover="this.src='images/vrfm-cover-back.jpg'"
+        onmouseout="this.src='images/vrfm-cover.jpg'" />
     </th>
 </tr>
 </table>
@@ -65,9 +67,9 @@
 <table>
 <tr>
    <th>&nbsp;</th>
-   <th><img src="images/vrfm-cover.jpg" width="75"></th>
-   <th><img src="images/vrfg-cover.jpg" width="75"></th>
-   <th><img src="images/vrfg-ES-cover.jpg" width="75"></th>
+   <th><img src="images/vrfm-cover.jpg" width="50"></th>
+   <th><img src="images/vrfg-cover.jpg" width="50"></th>
+   <th><img src="images/vrfg-ES-cover.jpg" width="50"></th>
 </tr>
 <tr>
     <td>Barnes & Nobel</td> 
