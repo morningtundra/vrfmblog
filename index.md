@@ -140,17 +140,18 @@ If you run a website, blog, podcast, or YouTube channel and would to like review
         <img src="images/vrfg-es-2.jpg" width="200" hspace="5">
     </p>
 </center>
+
 ## Merchandise
 If you enjoyed any of the illustrations in these books, various merchandise is available from [Redbubble](https://www.redbubble.com/people/nyquist212/explore?asc=u&page=1&sortOrder=recent). From stickers to bed spreads, framed prints to novelty socks -  these make great gifts to accompany the book.
 <center>
     <p>
-        <img src="images/cushion1.jpg" width="100" hspace="5">
-        <img src="images/cushion2.jpg" width="100" hspace="5">
-        <img src="images/cushion3.jpg" width="100" hspace="5">
+        <img src="images/cushion1.jpg" width="125" hspace="5">
+        <img src="images/cushion2.jpg" width="125" hspace="5">
+        <img src="images/cushion3.jpg" width="125" hspace="5">
     </p>
     <p>
-        <img src="images/bedspread.jpg" width="100" hspace="5">
-        <img src="images/wallprint.jpg" width="100" hspace="5">
-        <img src="images/posters.jpg" width="100" hspace="5">
+        <img src="images/bedspread.jpg" width="125" hspace="5">
+        <img src="images/wallprint.jpg" width="125" hspace="5">
+        <img src="images/posters.jpg" width="125" hspace="5">
     </p>
 </center>
