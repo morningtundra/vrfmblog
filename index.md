@@ -111,6 +111,8 @@ The *Field Manual* is an expanded version with more contextual information inclu
 
 Both books are also available in digital EPUB formats which can be purchased from [Apple Bookstore](https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756), the Amazon Kindle Store, and Google Play.
 
+If you want to see the interior of these books, search YouTube for book reviews on these titles.
+
 ## If you'd like to reference or review this book
 If you run a website, blog, podcast, or YouTube channel and would to like review these books you are free to use these large format images. If you'd like quotes or comments from the author, you can reach out to me at morningtundra@gmail.com. You can also send me a message on Instagram [@morning_tundra](https://www.instagram.com/morning_tundra/).
 <p>
