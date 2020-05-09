@@ -107,7 +107,7 @@
 </tr>
 </table>
 <p>
-Used copies of these books can also be found on Ebay.
+If you're on a budget, used copies of these books can also be found on Ebay.
 </p>
 
 ## What's the difference between the GUIDE and the MANUAL?
