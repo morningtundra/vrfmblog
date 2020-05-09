@@ -71,9 +71,9 @@
 <table>
 <tr>
    <th>&nbsp;</th>
-   <th><img src="images/vrfm-cover.jpg" width="50"></th>
-   <th><img src="images/vrfg-cover.jpg" width="50"></th>
-   <th><img src="images/vrfg-ES-cover.jpg" width="50"></th>
+   <th><center><img src="images/vrfm-cover.jpg" width="50"></center></th>
+   <th><center><img src="images/vrfg-cover.jpg" width="50"></center></th>
+   <th><center><img src="images/vrfg-ES-cover.jpg" width="50"></center></th>
 </tr>
 <tr>
     <td>Barnes & Nobel</td> 
