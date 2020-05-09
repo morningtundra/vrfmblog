@@ -37,7 +37,9 @@
         </p>
     </th>
     <th>
-        <img src="images/vrfg-cover.jpg" width="200">
+        <img src="images/vrfg-cover.jpg" width="200"
+        onmouseover="this.src='images/vrfg-cover-back.jpg'"
+        onmouseout="this.src='images/vrfg-cover.jpg'" />
     </th>
 </tr>
 </table>
@@ -58,7 +60,9 @@
         </p>
     </th>
     <th>
-        <img src="images/vrfg-ES-cover.jpg" width="200">
+        <img src="images/vrfg-ES-cover.jpg" width="200"
+        onmouseover="this.src='images/vrfg-ES-cover-back.jpg'"
+        onmouseout="this.src='images/vrfg-ES-cover.jpg'" />
     </th>
 </tr>
 </table>
