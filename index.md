@@ -115,7 +115,12 @@ Both books are also available in digital EPUB formats which can be purchased fro
 
 If you want to see the interior of these books, search YouTube for book reviews on these titles.
 
-## If you'd like to reference or review this book
+## Can I resell these books?
+If you operate an eCommerce shop or website, the easiest way is to join [Amazon Associates](https://affiliate-program.amazon.com/) and collect a sales commission on any purchases you send to their site. 
+
+If you run a boutique or other retail or pop-up store, you can order a retail carton of nine books at 30% off the cover price. With this you carry your own inventory and set your own price. Email morningtundra@gmail.com for details.
+
+## If you'd like to  or review this book
 If you run a website, blog, podcast, or YouTube channel and would to like review these books you are free to use these large format images. If you'd like quotes or comments from the author, you can reach out to me at morningtundra@gmail.com. You can also send me a message on Instagram [@morning_tundra](https://www.instagram.com/morning_tundra/).
 <p>
 <img src="images/vrfg-1.jpg" width="200" hspace="5"><img src="images/vrfg-2.jpg" width="200" hspace="5">
@@ -126,9 +131,3 @@ If you run a website, blog, podcast, or YouTube channel and would to like review
 <p>
 <img src="images/vrfg-es-1.jpg" width="200" hspace="5"><img src="images/vrfg-es-2.jpg" width="200" hspace="5">
 </p>
-
-## Can I resell these books?
-If you operate an eCommerce shop or website, the easiest way is to join [Amazon Associates](https://affiliate-program.amazon.com/) and collect a sales commission on any purchases you send to their site. 
-
-If you run a boutique or other retail or pop-up store, you can order a retail carton of nine books at 30% off the cover price. With this you carry your own inventory and set your own price. Email morningtundra@gmail.com for details.
-
