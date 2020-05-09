@@ -58,6 +58,47 @@
 </tr>
 </table>
 
+## Where Else Can I Buy?
+<table>
+<tr>
+   <th>&nbsp;</th>
+   <th>Chevalier Field Manual<br/><small>ISBN: 978-0578630823</small></th>
+   <th>Classic Field Guide<br/><small>ISBN: 978-0578524801</small></th>
+   <th>Rolex Vintage Guía Práctica<br/><small>ISBN: 978-0578670508</small></th>
+</tr>
+<tr>
+    <td>Barnes & Nobel</td> 
+    <td><center><a href="https://www.barnesandnoble.com/w/the-vintage-rolex-field-manual-colin-a-white/1136954533?ean=9780578630823">✔</a></center></td>
+    <td><center><a href="https://www.barnesandnoble.com/w/the-vintage-rolex-field-guide-morningtundra/1132017785?ean=9780578524801">✔</a></center></td>
+    <td><center><a href="https://www.barnesandnoble.com/w/gu-a-pr-ctica-del-rolex-vintage-colin-a-white/1136954532?ean=9780578670508">✔</a></center></td>
+</tr>
+<tr>
+    <td>Waterstones</td> 
+    <td><center><a href="https://www.waterstones.com/book/the-vintage-rolex-field-manual/colin-a-whte/9780578630823">✔</a></center></td>
+    <td><center><a href="https://www.waterstones.com/book/the-vintage-rolex-field-guide/morningtundra/9780578524801">✔</a></center></td>
+    <td><center><a href="https://www.waterstones.com/book/guia-practica-del-rolex-vintage/colin-a-whte/9780578670508">✔</a></center></td>
+</tr>
+<tr>
+<td>Wallmart</td>
+    <td><center><a href="https://www.walmart.com/ip/Chevalier-The-Vintage-Rolex-Field-Manual-Hardcover-9780578630823/714862291">&#10004;</a></center></td>
+    <td><center><a href="https://www.walmart.com/ip/Field-Guides-The-Vintage-Rolex-Field-Guide-Paperback-9780578524801/906349964">✔</a></center></td>
+    <td><center><a href="https://www.walmart.com/ip/Classic-Gu-a-Pr-ctica-del-Rolex-Vintage-Un-manual-de-supervivencia-para-la-aventura-del-Rolex-vintage-Paperback-9780578670508/274677974">✔</a></center></td>
+</tr>
+<tr>
+    <td>Adlibris</td>
+    <td><center><a href="https://www.adlibris.com/no/bok/the-vintage-rolex-field-manual-9780578630823">✔</a></center></td>
+    <td><center><a href="https://www.adlibris.com/no/sok?q=978-0578524801">✔</a></center></td>
+    <td><center><a href="https://www.adlibris.com/no/sok?q=978-0578670508">✔</a></center></td> 
+</tr>
+<tr>
+<td>AbeBooks</td>
+    <td><center><a href="https://www.abebooks.com/servlet/SearchResults?cm_sp=SearchF-_-topnav-_-Results&ds=20&kn=978-0578630823&sts=t">✔</a></center></td>
+    <td><center><a href="https://www.abebooks.com/servlet/SearchResults?cm_sp=SearchF-_-topnav-_-Results&ds=20&kn=978-0578524801&sts=t">✔</a></center></td>
+    <td><center><a href="https://www.abebooks.com/servlet/SearchResults?cm_sp=SearchF-_-topnav-_-Results&ds=20&kn=978-0578670508&sts=t">✔</a></center></td> 
+</tr>
+
+</table>
+
 
 ## What's the difference between the GUIDE and the MANUAL?
 The *Field Guide* was designed to be a stripped-down, data-first, no-frills survival guide. This smaller sized paperback can be carried to watch fairs and auctions and referenced as needed. There is sufficient 'white space' to write in the margins and take notes.
