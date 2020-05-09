@@ -64,7 +64,7 @@
    <th>&nbsp;</th>
    <th><img src="images/vrfm-cover.jpg" width="75"></th>
    <th><img src="images/vrfg-cover.jpg" width="75"></th>
-   <th><img src="images/vrfg-es-cover.jpg" width="75"></th>
+   <th><img src="images/vrfg-ES-cover.jpg" width="75"></th>
 </tr>
 <tr>
     <td>Barnes & Nobel</td> 
