@@ -58,7 +58,7 @@ The optimum structure of a book landing page is well established. It includes th
 * Guarantees & Assurances
 * Seller contact info
 
-There sequene of these elements may vary and A/B testing may be useful to optimize the effectiveness. This is a pretty standard landing page setup
+There sequence of these elements may vary and A/B testing may be useful to optimize the effectiveness. This is a pretty standard landing page setup
 
 # Website Performance
 
