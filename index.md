@@ -141,7 +141,6 @@ If you enjoyed any of the illustrations in these books, various merchandise is a
 
 ## If you'd like to feature or review this book
 If you run a website, blog, podcast, or YouTube channel and would to like review these books you are free to use these large format images. If you'd like quotes or comments from the author, you can reach out to me at morningtundra@gmail.com. You can also send me a message on Instagram [@morning_tundra](https://www.instagram.com/morning_tundra/).
-<!--
 <center>
     <p>
         <img src="images/vrfg-1.jpg" width="200" hspace="5">
@@ -156,4 +155,3 @@ If you run a website, blog, podcast, or YouTube channel and would to like review
         <img src="images/vrfg-es-2.jpg" width="200" hspace="5">
     </p>
 </center>
--->
