@@ -124,6 +124,21 @@ If you operate an eCommerce shop or website, the easiest way is to join [Amazon 
 
 If you run a boutique or other retail or pop-up store, you can order a retail carton of nine books at 30% off the cover price. With this you carry your own inventory and set your own price. Email morningtundra@gmail.com for details.
 
+## Merchandise
+If you enjoyed any of the illustrations in these books, various merchandise is available from [Redbubble](https://www.redbubble.com/people/nyquist212/explore?asc=u&page=1&sortOrder=recent). From stickers to bed spreads, framed prints to novelty socks -  these make great gifts to accompany the book.
+<center>
+    <p>
+        <img src="images/cushion1.jpg" width="125" hspace="5">
+        <img src="images/cushion2.jpg" width="125" hspace="5">
+        <img src="images/cushion3.jpg" width="125" hspace="5">
+    </p>
+    <p>
+        <img src="images/bedspread.jpg" width="125" hspace="5">
+        <img src="images/wallprint.jpg" width="125" hspace="5">
+        <img src="images/posters.jpg" width="125" hspace="5">
+    </p>
+</center>
+
 ## If you'd like to feature or review this book
 If you run a website, blog, podcast, or YouTube channel and would to like review these books you are free to use these large format images. If you'd like quotes or comments from the author, you can reach out to me at morningtundra@gmail.com. You can also send me a message on Instagram [@morning_tundra](https://www.instagram.com/morning_tundra/).
 <center>
@@ -138,20 +153,5 @@ If you run a website, blog, podcast, or YouTube channel and would to like review
     <p>
         <img src="images/vrfg-es-1.jpg" width="200" hspace="5">
         <img src="images/vrfg-es-2.jpg" width="200" hspace="5">
-    </p>
-</center>
-
-## Merchandise
-If you enjoyed any of the illustrations in these books, various merchandise is available from [Redbubble](https://www.redbubble.com/people/nyquist212/explore?asc=u&page=1&sortOrder=recent). From stickers to bed spreads, framed prints to novelty socks -  these make great gifts to accompany the book.
-<center>
-    <p>
-        <img src="images/cushion1.jpg" width="125" hspace="5">
-        <img src="images/cushion2.jpg" width="125" hspace="5">
-        <img src="images/cushion3.jpg" width="125" hspace="5">
-    </p>
-    <p>
-        <img src="images/bedspread.jpg" width="125" hspace="5">
-        <img src="images/wallprint.jpg" width="125" hspace="5">
-        <img src="images/posters.jpg" width="125" hspace="5">
     </p>
 </center>

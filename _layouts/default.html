@@ -19,9 +19,11 @@
         -->
         
         {% if site.logo %}
+        <a href="{{ "/" | absolute_url }}">
           <img src="images/MTLOGO.jpg"
           onmouseover="this.src='images/Author.jpg'" 
           onmouseout="this.src='images/MTLOGO.jpg'" />
+        </a>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
