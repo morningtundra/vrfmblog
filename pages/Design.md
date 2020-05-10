@@ -37,10 +37,8 @@ While [assessing the compatitive landscape](Planning.md) during your Planning yo
 * What does the #1 Best Seller look like?
 * What do these titles have in common?
 
-
 # Interior Book Design
-
-# Typography & Typesetting
+You can do your interior layout and typesetting yourself if you are proficient with a Desktop Publishing tool like InDesign. However, this can be a very time consuming undertaking, even if you start with one of the many InDesign templates you can find on the internet. If your book is complex, and you want a highly professional result, contact Jenny Goodhand at The Refinery Designs
 
 # Website & Landing Pages
 
