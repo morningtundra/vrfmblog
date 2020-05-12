@@ -42,9 +42,9 @@ Your decision whether to participate in this market place depends on whether you
 
 This is the lowest cost (free) option. Github is a public repository (owned by Microsoft) for software projects. It offers a relatively simple way to host free web pages.
 
-It has the advantage of not charging for using your own custom domain name. Domain names can be registered at various sites online for free to.
+It has the advantage of not charging for using your own custom domain name. Domain names can be registered at various sites online for free too. It can be tedious to learn to setup if you're not familiar with GitHub, but can be simple to maintain once running.
 
-A github page can use a PayPal hosted cart and is realtively simple to setup.
+A GitHub page can use a PayPal hosted cart and is relatively simple to setup.
 
 With some time and patience, very nice landing pages can be created for zero budget.
 
@@ -52,21 +52,15 @@ With some time and patience, very nice landing pages can be created for zero bud
 
 If you're serious about taking your book to market, you will need more than hosted landing pages. These other tools include mailing list managers, payment gateways, analytics and reports.
 
-While there are various place online that offer each of these and sold separately, fully integrated solutions (all-in-one) are limited. These are the best known options.
+While there are various place online that offer each of these and sold separately, fully integrated solutions (all-in-one) are limited. These are the best options at the time of writing.
 
-## Kartra
-
-## ClickFunnels
-
-## Book Funnel
-
-## Shopify
+- Kartra
+- ClickFunnels
+- Book Funnel
+- Shopify
 
 # Payment Processing
 If you plan to sell direct you need at least one of these platforms to process your payments. Both charge merchant transaction fees.
 
-Paypal
-
-Strip
-
-# Sales Funnels
+- Paypal
+- Stripe
