@@ -1,4 +1,4 @@
-## The Vintage Rolex Field Manual Chevalier Edition
+## The Vintage Rolex Field Manual <br/>Chevalier Edition
 <table>
 <tr>
     <th>
@@ -21,7 +21,7 @@
 </tr>
 </table>
 
-## The Vintage Rolex Field Guide Classic Edition 
+## The Vintage Rolex Field Guide <br/>Classic Edition 
 <table>
 <tr>
     <th>
@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-## Rolex Vintage Guía Práctica Edición Clásica En Español
+## Rolex Vintage Guía Práctica <br/>Edición Clásica En Español
 <table>
 <tr>
     <th>
