@@ -155,3 +155,9 @@ If you run a website, blog, podcast, or YouTube channel and would to like review
         <img src="images/vrfg-es-2.jpg" width="200" hspace="5">
     </p>
 </center>
+
+## About The Author
+
+*Colin A. White*
+
+A data scientist, software engineer, recovering entrepreneur, and vintage watch enthusiast. Born and raised in the Far East, educated in Britain and now living and working in the USA, he’s traveled the world several times over. His watch-credentials and 40-year track record include buying more bad lemons than good. This has given him direct personal experience of the pitfalls and mistakes that all vintage watch enthusiasts expose themselves too. This work is an effort to pass on his interests and help others walk a successful and joy-filled path to vintage Rolex ownership.
