@@ -110,15 +110,16 @@ Never pay someone to publish your work. Period. A print or publishing company th
 
 There are numerous perks to being traditionally published by a publishing house. However the odds of cutting a deal worth your time, are against you. 
 
-Independent self-publishing has never been cheaper or easier to do. You should note that cheap is not free as there are modest costs involved.
+Independent self-publishing has never been cheaper or easier to do. You should note that cheap is not free as there are modest costs involved. And easy does not mean low-effort. 
 
 Those that tell you self-publishing is hard, really mean it's hard to make a full time living at it. The technical process is quite simple but turning a profit, or making even a modest income is indeed hard. But if you're patient, persistent and curious, self-publishing can be a profitable side-hustle. 
 
-Self-publishing is intimately linked with digital printing on demand (POD). There are several companies that offer these services:
+Focus your business plan on turning a profit on each book rather than a sustained annual income. Recognize that a book has a life cycle and sales will peak and then decline. To make this a way of life with a sustained income you will need to produce books on a fast cadence with repeatable and automated processes. Meaning, plan to plough some profits back into follow-on editions (enhanced, updated, expanded, etc), and foreign language translations. 
+
+Self-publishing is intimately linked with digital printing on demand (POD). There are several companies that offer these services but the two most popular (and largest) are :
 
 * Ingramspark.com
 * Amazon Kindle Direct Publishing (KDP)
-* Others
 
 The scope of their services ranges from all-in to more specialized and focused. An all-in, soup-to-nuts POD service would include,
 
