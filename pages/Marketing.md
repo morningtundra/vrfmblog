@@ -2,6 +2,7 @@
 layout: default 
 ---
 # Marketing
+ - [Website](#website)
  - [Lead Magnets](#lead-magnets)
  - [Social Media Footprint](#social-media-footprint)
  - [Book Mockups](#book-mockups)
@@ -9,6 +10,17 @@ layout: default
  - Wire Services
 
 Marketing is a poorly defined term, but will be used here to mean targeting and engaging customers. [Advertising](Advertising.md) and [Selling](Selling.md) are therefore sub-domains.
+
+## Website
+Authors debate whether a website is necessary or useful.  The short answer is yes. There are two facets of the book that need a strong internet presence. 1) An Author Profile and 2) A Book Landing Page.
+
+The Author Profile can be hosted on [Amazon Author Central](https://authorcentral.amazon.com/), which will also provide a friendly URL e.g. [amazon.com/author/colinwhite](amazon.com/author/colinwhite). This will provide search engine discovery and some back linking (link juice) to your book landing page.
+
+The purpose of the Landing Page is to Sell the book. Specifically to accept orders and process payments. This direct sales channel (direct from the author to the reader) is in addition to retail channels. While you are competing with retailers, be careful not to under cut them or you may trigger their algorithms into a price war.
+
+The cheapest way to achieve a book landing page is with GitHub Pages and Paypal. For more sophisticated platforms consider Clickfunnels or Kartra.
+
+Also be sure to take advantage of eShops and Sales Pages offered by POD companies. See [Aer.io](https://www.aer.io/) by IngramSpark.
 
 ## Lead Magnets
 This is simply a free sample of your book, typically a chapter. It is given away in exchange for a potential customers email address. In sales parlance, this potential customer is a *lead*.
