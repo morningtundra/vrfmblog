@@ -35,7 +35,7 @@ For non-fiction, use of color is almost essential and forms a crucial part of yo
 * Complementary to the tone and style of the book content (e.g. classic and conservative vs punky and hip)
 * Chosen with some awareness of basic color theory
 
-Ensure the chosen palette can be carried over to marketing and advertising assets, including social media profiles. 
+Ensure the chosen palette can be carried over to marketing and advertising assets, including social media profiles. This same advice applies to font selection, type-treatments and typesetting. 
 
 # Cover Design & Dust Jackets
 Contrary to popular opinion, yes you *can* design your own cover. If you want to, or can't afford a graphic designer, go ahead and do your own. This advice does not apply equally to fiction.
