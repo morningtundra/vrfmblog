@@ -48,14 +48,14 @@ While [assessing the compatitive landscape](Planning.md) during your Planning yo
 * What do these titles have in common?
 
 # Interior Book Design
-You can do your interior layout and typesetting yourself if you are proficient with a Desktop Publishing tool (DTP) like InDesign (or  Quark Express or open source [Scribus](https://www.scribus.net/).) However, this can be a very time consuming undertaking, even if you start with one of the many InDesign templates you can find on the internet. 
+You can do your interior layout and typesetting yourself if you are proficient with a Desktop Publishing tool (DTP) like InDesign (or  Quark Express or open source [Scribus](https://www.scribus.net/).) However this is time consuming, even if you start with one of the many InDesign templates you can find on the internet. 
 
 If you plan to perform the interior layout, it is important to read the [File Format or File Generation](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf) guidelines of the POD Publisher. Read this first to determine appropriate margins, gutter and bleed sizes and then setup your DTP template pages. Changing this later can be very tedious and frustrating.
 
 Make sure you become familiar with basic book design conventions like 'orphans', 'widows', page numbering and layout conventions like use of roman numerals for front matter and 
 starting new chapters on the right side of a spread. While all of this is learnable, it is time consuming and justifies the use of a professional designer.
 
-If your book is complex, and you want a highly professional result, contact Jenny Goodhand at The Refinery Designs
+If your book is complex, and you want a highly professional result, contact Jenny Goodhand at [The Refinery Designs](http://www.refinery-design.com/).
 
 # Website & Landing Pages
 
@@ -76,8 +76,13 @@ The optimum structure of a book landing page is well established. It includes th
 The sequence of these elements may vary and A/B testing may be useful to optimize the effectiveness. This is a pretty standard landing page setup
 
 # Website Performance
+If you plan to sell books directly to readers, your web page load speed and site performance are an important part of the user experience. This is especially important with the mobile buying experience. 
+
+Your user experience is associated with page load time and 'time on page' or engagement. These factors fall into the domain of Search Engine Optimization (SEO) and heavily impact your Search Engine Ranking Position (SERP).
 
 * [webpagetest.org](https://webpahetest.org)
+
+While this domain can get technical with a steep learning curve, it is foundational to online marketing and PPC (Pay Per Click) ad spend. 
 
 # Website Images
 
