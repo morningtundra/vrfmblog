@@ -48,7 +48,14 @@ While [assessing the compatitive landscape](Planning.md) during your Planning yo
 * What do these titles have in common?
 
 # Interior Book Design
-You can do your interior layout and typesetting yourself if you are proficient with a Desktop Publishing tool like InDesign. However, this can be a very time consuming undertaking, even if you start with one of the many InDesign templates you can find on the internet. If your book is complex, and you want a highly professional result, contact Jenny Goodhand at The Refinery Designs
+You can do your interior layout and typesetting yourself if you are proficient with a Desktop Publishing tool (DTP) like InDesign (or  Quark Express or open source [Scribus](https://www.scribus.net/).) However, this can be a very time consuming undertaking, even if you start with one of the many InDesign templates you can find on the internet. 
+
+If you plan to perform the interior layout, it is important to read the [File Format or File Generation](https://www.ingramspark.com/hubfs/downloads/file-creation-guide.pdf) guidelines of the POD Publisher. Read this first to determine appropriate margins, gutter and bleed sizes and then setup your DTP template pages. Changing this later can be very tedious and frustrating.
+
+Make sure you become familiar with basic book design conventions like 'orphans', 'widows', page numbering and layout conventions like use of roman numerals for front matter and 
+starting new chapters on the right side of a spread. While all of this is learnable, it is time consuming and justifies the use of a professional designer.
+
+If your book is complex, and you want a highly professional result, contact Jenny Goodhand at The Refinery Designs
 
 # Website & Landing Pages
 
