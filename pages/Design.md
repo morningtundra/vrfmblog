@@ -17,7 +17,7 @@ A formally written design brief serves two purposes.
 1. Capture and clarify your goals and criteria
 2. Saves repeating yourself when engaging subcontractors
 
-The internet is full of guidance on how to write graphic design brief. For a book, keep it to two pages or less. At a minimum it should include the following,
+The internet is full of guidance on how to write a graphic design brief. For a book, keep it to two pages or less. At a minimum it should include the following,
 
 * A demographic description of your target reader
 * Trim size
@@ -26,6 +26,16 @@ The internet is full of guidance on how to write graphic design brief. For a boo
 * Photo examples of what you like and a description of why
 * Links to competing books
 * Suggested color pallet and font styles
+
+# Color
+For non-fiction, use of color is almost essential and forms a crucial part of your book branding. A color palette or theme should be identified early in the conceptual design process and needs to meet some criteria,
+* Consistent and complementary with any photography or raster assets
+* Compliant with CMYK print standards and 'color profiles' where necessary
+* Distinctive when compared to the nearest competing titles
+* Complementary to the tone and style of the book content (e.g. classic and conservative vs punky and hip)
+* Chosen with some awareness of basic color theory
+
+Ensure the chosen palette can be carried over to marketing and advertising assets, including social media profiles. 
 
 # Cover Design & Dust Jackets
 Contrary to popular opinion, yes you *can* design your own cover. If you want to, or can't afford a graphic designer, go ahead and do your own. This advice does not apply equally to fiction.
@@ -56,7 +66,7 @@ The optimum structure of a book landing page is well established. It includes th
 * Guarantees & Assurances
 * Seller contact info
 
-There sequence of these elements may vary and A/B testing may be useful to optimize the effectiveness. This is a pretty standard landing page setup
+The sequence of these elements may vary and A/B testing may be useful to optimize the effectiveness. This is a pretty standard landing page setup
 
 # Website Performance
 
