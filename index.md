@@ -164,4 +164,3 @@ A data scientist, software engineer, recovering entrepreneur, and vintage watch 
 
 
 
-<iframe src="https://aerbook.com/store/VRFM?showheader=false" frameborder="0" style="width:100%;height:1800px;"></iframe>
