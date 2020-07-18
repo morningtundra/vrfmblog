@@ -16,52 +16,82 @@
   <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-91701330-2'); </script>
 </head>
 
-
-  <script>
-    (function() {
-      // LIVE 
-      // var stripe = Stripe('pk_live_DMbRjGLXjFtrFbqCyzjinQcA00he9P2hTa');
-      // var checkoutButton = document.getElementById('checkout-button-price_1H4uATEsA8D4zzn6e6HXXsNV');
-
-      // TEST 
-      var stripe = Stripe('pk_test_EPOjxA5E8yDu7xcQRaiZEiz000sxw89emK');
-      var checkoutButton = document.getElementById('checkout-button-price_1H4vLWEsA8D4zzn6jMn49AS5');
-
-      checkoutButton.addEventListener('click', function () {
-        // When the customer clicks on the button, redirect
-        // them to Checkout.
-        stripe.redirectToCheckout({
-          // LIVE
-          //lineItems: [{price: 'price_1H4uATEsA8D4zzn6e6HXXsNV', quantity: 1}],
-
-          // TEST 
-          lineItems: [{price: 'price_1H4vLWEsA8D4zzn6jMn49AS5', quantity: 1}],
-          mode: 'payment',
-          // Do not rely on the redirect to the successUrl for fulfilling
-          // purchases, customers may not always reach the success_url after
-          // a successful payment.
-          // Instead use one of the strategies described in
-          // https://stripe.com/docs/payments/checkout/fulfillment
-          successUrl: window.location.protocol + '//127.0.0.1:3000/success',
-          cancelUrl: window.location.protocol + '//127.0.0.1:3000/cancel',
-          shippingAddressCollection: {
+<!------ VRFM CHEVALIER - STRIPE CHECKOUT BUTTON HANDLER ----------------------------------->
+<script>
+  (function() {
+    var stripe = Stripe('pk_live_DMbRjGLXjFtrFbqCyzjinQcA00he9P2hTa');
+    var checkoutButton = document.getElementById('checkout-button-price_1H4uATEsA8D4zzn6e6HXXsNV');
+    checkoutButton.addEventListener('click', function () {
+      stripe.redirectToCheckout({
+        lineItems: [{price: 'price_1H4uATEsA8D4zzn6e6HXXsNV', quantity: 1}],
+        mode: 'payment',
+        successUrl: window.location.protocol + '//vrfg.io/success',
+        cancelUrl: window.location.protocol + '//vrfg.io/canceled',
+        shippingAddressCollection: {
             allowedCountries: ["AC", "AE", "AF", "AG", "AI", "AL", "AM", "AO", "AQ", "AR", "AT", "AU", "AW", "AX", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BL", "BM", "BN", "BO", "BQ", "BR", "BS", "BT", "BV", "BW", "BY", "BZ", "CA", "CD", "CF", "CG", "CH", "CI", "CK", "CL", "CM", "CN", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "EH", "ER", "ES", "ET", "FI", "FJ", "FK", "FO", "FR", "GA", "GB", "GD", "GE", "GF", "GG", "GH", "GI", "GL", "GM", "GN", "GP", "GQ", "GR", "GS", "GT", "GU", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IM", "IN", "IO", "IQ", "IS", "IT", "JE", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KY", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MF", "MG", "MK", "ML", "MM", "MN", "MO", "MQ", "MR", "MS", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NC", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NU", "NZ", "OM", "PA", "PE", "PF", "PG", "PH", "PK", "PL", "PM", "PN", "PR", "PS", "PT", "PY", "QA", "RE", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SH", "SI", "SJ", "SK", "SL", "SM", "SN", "SO", "SR", "SS", "ST", "SV", "SX", "SZ", "TA", "TC", "TD", "TF", "TG", "TH", "TJ", "TK", "TL", "TM", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VA", "VC", "VE", "VG", "VN", "VU", "WF", "WS", "XK", "YE", "YT", "ZA", "ZM", "ZW", "ZZ"]
           }
-        })
-        .then(function (result) {
-          if (result.error) {
-            // If `redirectToCheckout` fails due to a browser or network
-            // error, display the localized error message to your customer.
-            var displayError = document.getElementById('error-message');
-            displayError.textContent = result.error.message;
-          }
-        });
+      })
+      .then(function (result) {
+        if (result.error) {
+          var displayError = document.getElementById('error-message-vrfm');
+          displayError.textContent = result.error.message;
+        }
       });
-    })();
-    </script>
+    });
+  })();
+  </script>
+  
+<!-- VRFG CLASSIC - STRIPE CHECKOUT BUTTON -->
+<script>
+  (function() {
+    var stripe = Stripe('pk_live_DMbRjGLXjFtrFbqCyzjinQcA00he9P2hTa');
+    var checkoutButton = document.getElementById('checkout-button-price_1H4uE5EsA8D4zzn6iOjx7gTs');
+    checkoutButton.addEventListener('click', function () {
+      stripe.redirectToCheckout({
+        lineItems: [{price: 'price_1H4uE5EsA8D4zzn6iOjx7gTs', quantity: 1}],
+        mode: 'payment',
+        successUrl: window.location.protocol + '//vrfg.io/success',
+        cancelUrl: window.location.protocol + '//vrfg.io/canceled',
+        shippingAddressCollection: {
+            allowedCountries: ["AC", "AE", "AF", "AG", "AI", "AL", "AM", "AO", "AQ", "AR", "AT", "AU", "AW", "AX", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BL", "BM", "BN", "BO", "BQ", "BR", "BS", "BT", "BV", "BW", "BY", "BZ", "CA", "CD", "CF", "CG", "CH", "CI", "CK", "CL", "CM", "CN", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "EH", "ER", "ES", "ET", "FI", "FJ", "FK", "FO", "FR", "GA", "GB", "GD", "GE", "GF", "GG", "GH", "GI", "GL", "GM", "GN", "GP", "GQ", "GR", "GS", "GT", "GU", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IM", "IN", "IO", "IQ", "IS", "IT", "JE", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KY", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MF", "MG", "MK", "ML", "MM", "MN", "MO", "MQ", "MR", "MS", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NC", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NU", "NZ", "OM", "PA", "PE", "PF", "PG", "PH", "PK", "PL", "PM", "PN", "PR", "PS", "PT", "PY", "QA", "RE", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SH", "SI", "SJ", "SK", "SL", "SM", "SN", "SO", "SR", "SS", "ST", "SV", "SX", "SZ", "TA", "TC", "TD", "TF", "TG", "TH", "TJ", "TK", "TL", "TM", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VA", "VC", "VE", "VG", "VN", "VU", "WF", "WS", "XK", "YE", "YT", "ZA", "ZM", "ZW", "ZZ"]
+          }
+      })
+      .then(function (result) {
+        if (result.error) {
+          var displayError = document.getElementById('error-message-vrfg');
+          displayError.textContent = result.error.message;
+        }
+      });
+    });
+  })();
+  </script>
 
-<!-- BOOTSTRAP COLLAPSEABLE NAV BAR SECTION -->
+<!-- VRFG ESPANIOL - STRIPE CHECKOUT BUTTON -->
+<script>
+(function() {
+  var stripe = Stripe('pk_live_DMbRjGLXjFtrFbqCyzjinQcA00he9P2hTa');
+  var checkoutButton = document.getElementById('checkout-button-price_1H4uGZEsA8D4zzn6KMymm2ty');
+  checkoutButton.addEventListener('click', function () {
+    stripe.redirectToCheckout({
+      lineItems: [{price: 'price_1H4uGZEsA8D4zzn6KMymm2ty', quantity: 1}],
+      mode: 'payment',
+      successUrl: window.location.protocol + '//vrfg.io/success',
+      cancelUrl: window.location.protocol + '//vrfg.io/canceled',
+      shippingAddressCollection: {
+            allowedCountries: ["AC", "AE", "AF", "AG", "AI", "AL", "AM", "AO", "AQ", "AR", "AT", "AU", "AW", "AX", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BL", "BM", "BN", "BO", "BQ", "BR", "BS", "BT", "BV", "BW", "BY", "BZ", "CA", "CD", "CF", "CG", "CH", "CI", "CK", "CL", "CM", "CN", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "EH", "ER", "ES", "ET", "FI", "FJ", "FK", "FO", "FR", "GA", "GB", "GD", "GE", "GF", "GG", "GH", "GI", "GL", "GM", "GN", "GP", "GQ", "GR", "GS", "GT", "GU", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IM", "IN", "IO", "IQ", "IS", "IT", "JE", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KY", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MF", "MG", "MK", "ML", "MM", "MN", "MO", "MQ", "MR", "MS", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NC", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NU", "NZ", "OM", "PA", "PE", "PF", "PG", "PH", "PK", "PL", "PM", "PN", "PR", "PS", "PT", "PY", "QA", "RE", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SH", "SI", "SJ", "SK", "SL", "SM", "SN", "SO", "SR", "SS", "ST", "SV", "SX", "SZ", "TA", "TC", "TD", "TF", "TG", "TH", "TJ", "TK", "TL", "TM", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VA", "VC", "VE", "VG", "VN", "VU", "WF", "WS", "XK", "YE", "YT", "ZA", "ZM", "ZW", "ZZ"]
+          }
+    })
+    .then(function (result) {
+      if (result.error) {
+        var displayError = document.getElementById('error-message-vrfges');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+})();
+</script>
 
+<!------ COLLAPSIBLE MENU NAV BAR PANEL ---------------------------------------------------->
   <header>
     <div class="collapse bg-dark" id="navbarHeader">
       <div class="container">
@@ -94,7 +124,6 @@
     <div class="navbar navbar-dark bg-dark shadow-sm">
       <div class="container d-flex justify-content-between">
         <a href="#" class="navbar-brand d-flex align-items-center">
-
           <h1>The Vintage Rolex Field Guide Book Series</h1>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
@@ -104,96 +133,100 @@
     </div>
   </header>
 
+<!------ MAIN CALL TO ACTION PANEL --------------------------------------------------------->
+
 <body>
   <main role="main">
     <div class="album py-5 bg-light">
       <div class="container">
 
     <h3 style="text-align:center">Now with FREE International Shipping!</h3><p>&nbsp;</p>
-
+<!------------------------------------------------------------------------------------------>
         <div class="row">
           <div class="col-md-4">
             <div class="card mb-4 shadow-sm">
-              <img src="./images/vrfm-cover.jpg" width="225" height="100%"> 
+              <img src="./images/vrfm-cover.jpg" width="70%" height="100%"> 
               <div class="card-body">
                 <p class="card-">
                   <h5>The Vintage Rolex Field Manual</h5>
-                  <h6>Hard Cover Chevalier Edition</h6>
+                  <h6>Hard Cover Chevalier Print Edition</h6>
                 </p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                      <button class="btn btn-sm btn-outline-success" id="checkout-button-price_1H4vLWEsA8D4zzn6jMn49AS5" role="link" type="button">
-                       Buy Now US $85 
-                      </button>
-                      <div id="error-message"></div>
-                  </div>
-                </div>
-                <p><hr/><small>
+                <p><small>
                   ISBN: 978-0578630823<br/>
                   Size: 8.5 x 0.9 x 11 inches<br/>
                   Weight: 2.5 lbs<br/>
                   Format: Hardcover<br/>
                   Published: 2020<br/>
-                 </small> </p>
+                 </small><hr/></p>
+                <div class="d-flex justify-content-center align-items-center">
+                  <div class="btn-group">
+                      <button style="background-color:#04611b;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"  id="checkout-button-price_1H4uATEsA8D4zzn6e6HXXsNV" role="link" type="button">
+                        Buy Now $85
+                      </button>
+                      <div id="error-message-vrfm"></div>
+                  </div>
+                </div>
+                
               </div>
             </div>
           </div>
+
+<!------------------------------------------------------------------------------------------>
           <div class="col-md-4">
             <div class="card mb-4 shadow-sm">
-
-             <img src="./images/vrfg-cover.jpg" width="225" height="100%" style="padding-top:25px">
- 
+             <img src="./images/vrfg-cover.jpg" width="70%" height="100%" style="padding-top:25px">
               <div class="card-body">
                 <p class="card-text">
                   <h5>The Vintage Rolex Field Guide</h5>
-                  <h6>Classic Soft Cover Edition</h6></p>
-                <div class="d-flex justify-content-between align-items-center">
+                  <h6>Classic Soft Cover Print Edition</h6></p>
+                  <p>
+                    <small>
+                      ISBN: 978-0578524801<br/>
+                      Size: 7.5 x 0.7 x 9.2 inches<br/>
+                      Weight: 1.3 lbs<br/>
+                      Format: Paperback<br/>
+                      Published: 2019<br/>
+                    </small><hr/></p>
+                <div class="d-flex justify-content-center align-items-center">
                   <div class="btn-group">
-                    <button id="vrfg"  type="button" class="btn btn-sm btn-outline-secondary">Buy Now $45</button>
+                    <button style="background-color:#04611b;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-price_1H4uE5EsA8D4zzn6iOjx7gTs" role="link" type="button" > Buy Now $45 </button><div id="error-message-vrfg"></div>
                   </div>
                 </div>
-                <p><hr/>
-                <small>
-                  ISBN: 978-0578524801<br/>
-                  Size: 7.5 x 0.7 x 9.2 inches<br/>
-                  Weight: 1.3 lbs<br/>
-                  Format: Paperback<br/>
-                  Published: 2019<br/>
-                </small></p>
+                
               </div>
             </div>
           </div>
+
+<!------------------------------------------------------------------------------------------>
           <div class="col-md-4">
             <div class="card mb-4 shadow-sm">
-
-              <img src="./images/vrfg-ES-cover.jpg" width="225" height="100%" style="padding-top:25px">
-              
+              <img src="./images/vrfg-ES-cover.jpg" width="70%" height="100%" style="padding-top:25px">
               <div class="card-body">
                 <p class="card-text">
                   <h5>Rolex Vintage Guía Práctica</h5> 
                   <h6>Edición Impresa En Español</h6></p>
-                <div class="d-flex justify-content-between align-items-center">
+                  <p><small>
+                    ISBN: 978-0578670508<br/>
+                    Talla: 7.5 x 0.7 x 9.2 inches<br/>
+                    Peso: 1.3 lbs<br/>
+                    Formato: libro de bolsillo<br/>
+                    Published: 2020<br/>
+                  </small><hr/></p>
+                <div class="d-flex justify-content-center align-items-center">
                   <div class="btn-group">
-                    <button id="vrfg-es" type="button" class="btn btn-sm btn-outline-secondary">Buy Now $45</button>
+                    <button style="background-color:#04611b;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-price_1H4uGZEsA8D4zzn6KMymm2ty" role="link" type="button" > Buy Now $45</button> <div id="error-message-vrfges"></div>
                   </div>
-                   
                 </div>
-                <p><hr/><small>
-                  ISBN: 978-0578670508<br/>
-                  Talla: 7.5 x 0.7 x 9.2 inches<br/>
-                  Peso: 1.3 lbs<br/>
-                  Formato: libro de bolsillo<br/>
-                  Published: 2020<br/>
-                </small></p>
               </div>
             </div>
           </div>
+
         </div>
       </div>
     </div>
   </main>
 
-  <!-- Confidence Panel -->
+<!------ BUY WITH CONFIDENCE PANEL --------------------------------------------------------->
 
   <div id="confidence" class="container" >
 
@@ -240,29 +273,66 @@
     These independently published books are available in both Print <strong>and</strong> Digital editions. Print editions are available from all good bookstores world wide as well as numerous online outlets. Digital editions exist as Fixed Layout EPUB files, and will work on nearly all devices ranging from tablets to desktops. You can find the digital edition by searching your favorite eBook Store.
     </div>
   </div>
-  <!-- DIGITAL EDITIONS -->
+  
+  <!------ DIGITAL EDITIONS ------------------------------------------------------------------>
+  
   <div class="container">
   <div class="row" style="padding:50 0 50 0">
-    <table style="width:75%; margin-left:auto; margin-right:auto;">
-      <tbody>
-        <tr>
-          <th><h5>The Vintage Rolex Field Manual</h5><h6>Chevalier EPUB Digital Edition</h6></th>
-          <th><h5>The Vintage Rolex Field Guide</h5><h6>Classic EPUB Digital Edition</h6></th>
-          <th><h5>Rolex Vintage Guía Práctica</h5><h6>Edición Digital Clásica En Español</h6></th>
-        </tr>
-        <tr>
-          <td class="text-muted">Coming soon in EPUB Digital format.</td>
-          <td><a href="https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756?mt=11&app=itunes" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-06-08T00:00:00Z&kind=epubbook&bubble=books) no-repeat;width:141px;height:40px;"></a></td>
-          <td><a href="https://books.apple.com/us/book/gu%C3%ADa-pr%C3%A1ctica-del-rolex-vintage/id1505243888?mt=11&app=itunes" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-05-01T00:00:00Z&kind=epubbook&bubble=books) no-repeat;width:141px;height:40px;"></a></td>
-        </tr>
-        
-      </tbody>
-    </table> 
+
+    <div class="col-md">
+      <div class="card mb-4 shadow-sm" style="padding:25 0 0 0">
+        <img src="./images/iPad Mockup VRFM.png" width="200px"> 
+        <div class="card-body">
+          <p class="card-">
+            <h5>The Vintage Rolex Field Manual</h5>
+            <h6>Chevalier EPUB Digital Edition</h6>
+          </p>
+          <div class="d-flex justify-content-between align-items-center">
+            <img src="./images/google-play-icon.png" width="141px">
+            <a href="https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756?mt=11&app=itunes" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-06-08T00:00:00Z&kind=epubbook&bubble=books) no-repeat;width:141px;height:40px;"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md">
+      <div class="card mb-4 shadow-sm" style="padding:25 0 0 0">
+        <img src="./images/iPad Mockup VRFG.png" width="200px"> 
+        <div class="card-body">
+          <p class="card-">
+            <h5>The Vintage Rolex Field Guide</h5>
+            <h6>Classic EPUB Digital Edition</h6>
+          </p>
+          <div class="d-flex justify-content-between align-items-center">
+            <img src="./images/google-play-icon.png" width="141px">
+            <a href="https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756?mt=11&app=itunes" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-06-08T00:00:00Z&kind=epubbook&bubble=books) no-repeat;width:141px;height:40px;"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md">
+      <div class="card mb-4 shadow-sm" style="padding:25 0 0 0">
+        <img src="./images/iPad Mockup VRFG ES.png" width="200px"> 
+        <div class="card-body">
+          <p class="card-">
+            <h5>Rolex Vintage Guía Práctica</h5>
+            <h6>Edición Digital Clásica de EPUB</h6>
+          </p>
+          <div class="d-flex justify-content-between align-items-center">
+            <img src="./images/google-play-icon.png" width="141px">
+            <a href="https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756?mt=11&app=itunes" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-06-08T00:00:00Z&kind=epubbook&bubble=books) no-repeat;width:141px;height:40px;"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
   </div>
 </div>
 
-<!-- TESTIMONIALS -->
+<!------ TESTIMONIALS PANEL ---------------------------------------------------------------->
+
 <div class="container" style="padding: 50px">
   <div class="row" style="padding: 25 0 25 0" >
     <div class="col-sm-1"></div>
@@ -329,7 +399,7 @@
   </div>
 
   <!-- YOUTUBE VIDEOS -->
-<div class="container" style="padding: 25 0 25 0">
+<div class="container" style="padding: 125 0 25 0">
   <div class="row">
     <div class="col-sm">
       <iframe width="280" height="158" src="https://www.youtube.com/embed/iJghOrAbVi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -348,10 +418,8 @@
 </div>
 </div>
 
+<!------ MANUAL VERSUS GUIDE PANEL --------------------------------------------------------->
 
-
-
-<!-- MANUAL VS GUIDE -->
 <div class="album py-5 bg-light">
   <div class="row" style="padding: 50 0 50 0;">
     <div class="col-sm-2">
@@ -360,25 +428,25 @@
     </div>
 
     <div class="col-sm-8">
+      <h6 style="padding-bottom: 20px;">WHAT'S THE DIFFERENCE BETWEEN THE GUIDE AND THE MANUAL?</h6>
+      <p><strong>The Field Guide</strong> is a stripped-down, data-first, no-frills survival guide. This smaller sized paperback can be carried to watch fairs and auctions and referenced as needed. There is sufficient ‘white space’ to write in the margins and take notes.</p>
+      <p><strong>The Field Manual</strong> is an expanded version with more contextual information including a detailed look at space-flown Rolex, considerably more photos and in a larger hardcover format. This is a 2lb desk reference in the style of a coffee table book.</p>
+      <p>If you want to see the interior of these books, search YouTube for book reviews on these titles.</p>
+    </div>
 
-    <h4 style="padding-bottom: 20px;">What’s the difference between the GUIDE and the MANUAL?</h4>
-
-    <p><strong>The Field Guide</strong> is a stripped-down, data-first, no-frills survival guide. This smaller sized paperback can be carried to watch fairs and auctions and referenced as needed. There is sufficient ‘white space’ to write in the margins and take notes.</p>
-
-    <p><strong>The Field Manual</strong> is an expanded version with more contextual information including a detailed look at space-flown Rolex, considerably more photos and in a larger hardcover format. This is a 2lb desk reference in the style of a coffee table book.</p>
-
-    <p>If you want to see the interior of these books, search YouTube for book reviews on these titles.</p>
-
+    <!-- PICTURE GALLERY -->
+    <div class="container-fluid bg-light">
+      <div class="row" style="padding: 50 0 10 0;">
+        <div class="col-sm-2"><img src="./images/IMG_7074.jpg" width="100%"></div>
+        <div class="col-sm-2"><img src="./images/IMG_7075.jpg" width="100%"></div>
+        <div class="col-sm-2"><img src="./images/IMG_7076.jpg" width="100%"></div>
+        <div class="col-sm-2"><img src="./images/IMG_7077.jpg" width="100%"></div>
+        <div class="col-sm-2"><img src="./images/IMG_7078.jpg" width="100%"></div>
+        <div class="col-sm-2"><img src="./images/IMG_7079.jpg" width="100%"></div>
+      </div>  
+    </div>
   </div>
-  
-  <div class="col-sm-2"></div>
-
 </div>
-</div>
-
-
-
-
 
 
 <!-- AUTHOR CAROUSEL -->
