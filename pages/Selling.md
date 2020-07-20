@@ -59,6 +59,16 @@ While there are various place online that offer each of these and sold separatel
 - Book Funnel
 - Shopify
 
+
+### KARTRA
+
+I used Kartra for nearly two years before cancelling my subscription. While the platform is full-featured, it's aimed at *marketeers* selling knowledge products such as coaching and training courses. If your book is supported by these services, Kartra may be a good choice as it offers tight integrations like, 
+- Membership Portals
+- Affiliate Management
+- Appointment scheduling
+
+For a simple landing page, it's overkill. 
+
 # Payment Processing
 If you plan to sell direct you need at least one of these platforms to process your payments. Both charge merchant transaction fees.
 
