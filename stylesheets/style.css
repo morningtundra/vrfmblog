@@ -39,3 +39,6 @@ h1 {
     padding-bottom: 50px;
 }
 
+.overlay-dark {
+  background-color: rgba(#596164, 0.4);
+}
