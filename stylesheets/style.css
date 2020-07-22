@@ -1,7 +1,7 @@
 body {
   position: relative;
-  
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-display: swap;
 }
 
 a {
@@ -16,18 +16,16 @@ img {
 
 h6 {
   color: rgb(243, 145, 33);
-  font-family: arial, sans-serif;
-  font-size: 10px;
-  margin-top: 1px;
-  margin-bottom: 1px;
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-display: swap;
   }
 
 h1 {
   color: rgb(243, 145, 33);
-  font-family: arial, sans-serif;
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
   font-size: 18px;
-  margin-top: 0px;
-  margin-bottom: 1px;
+  font-display: swap;
   }
 #confidence{
   margin-top: 50px;
