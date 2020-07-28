@@ -36,7 +36,7 @@
 
   <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" onload="this.rel='stylesheet'">
 
-  <script async src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.0.slim.min.js" crossorigin="anonymous"></script>
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.5.0.slim.min.js" crossorigin="anonymous"></script>
 
   <script async src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.5.0/bootstrap.min.js" crossorigin="anonymous"></script>
   
@@ -247,7 +247,7 @@
           <div class="d-flex justify-content-between align-items-center">
             <p style="margin:auto">
               <a href="https://books.google.com/books/about?id=oWTxDwAAQBAJ"><img src="./images/google-play-icon.png" width="141px" loading="lazy" alt="Google Play Books icon"></a>
-              <a href="https://books.apple.com/us/book/id1524158164/?mt=11&app=itunes" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-06-08T00:00:00Z&kind=epubbook&bubble=books) no-repeat;width:141px;height:40px;" alt="itunes link button"></a>
+              <a href="https://books.apple.com/us/book/id1524158164/?mt=11&app=itunes" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-06-08T00:00:00Z&kind=epubbook&bubble=books) no-repeat;width:141px;height:40px;" alt="itunes link button" title="itunes"></a>
             </p>
           </div>
         </div>
@@ -265,7 +265,7 @@
           <div class="d-flex justify-content-between align-items-center">
             <p style="margin:auto">
               <a href="https://books.google.com/books/about?id=H2XxDwAAQBAJ"><img src="./images/google-play-icon.png" width="141px" loading="lazy" alt="Google Play Books icon"></a>
-              <a href="https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756?mt=11&app=itunes" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-06-08T00:00:00Z&kind=epubbook&bubble=books) no-repeat;width:141px;height:40px;" alt="itunes link button"></a>
+              <a href="https://books.apple.com/us/book/the-vintage-rolex-field-guide/id1469475756?mt=11&app=itunes" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-06-08T00:00:00Z&kind=epubbook&bubble=books) no-repeat;width:141px;height:40px;" alt="itunes link button"  title="itunes"></a>
             </p>
           </div>
         </div>
@@ -283,7 +283,7 @@
           <div class="d-flex justify-content-between align-items-center">
             <p style="margin:auto">
               <a href="https://books.google.com/books/about?id=6WTxDwAAQBAJ"><img src="./images/google-play-icon.png" width="141px" loading="lazy" alt="Google Play Books icon"></a>
-              <a href="https://books.apple.com/us/book/gu%C3%ADa-pr%C3%A1ctica-del-rolex-vintage/id1523888706?mt=11&app=itunes" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-06-08T00:00:00Z&kind=epubbook&bubble=books) no-repeat;width:141px;height:40px;" alt="itunes link button"></a>
+              <a href="https://books.apple.com/us/book/gu%C3%ADa-pr%C3%A1ctica-del-rolex-vintage/id1523888706?mt=11&app=itunes" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-06-08T00:00:00Z&kind=epubbook&bubble=books) no-repeat;width:141px;height:40px;" alt="itunes link button" title="itunes"></a>
             </p>
           </div>
         </div>
@@ -387,6 +387,7 @@
 
   </div>
 </div>
+
 <!------ MANUAL VERSUS GUIDE PANEL --------------------------------------------------------->
 <div class="album py-5 bg-ligh bg-light" style="padding:50px;"style="height:100vh;">
  
@@ -454,7 +455,6 @@
   
 </div>
 
-
 <!------ AUTHOR CAROUSEL PANEL ------------------------------------------------------------->
 <div id="authorCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -489,18 +489,14 @@
     </div>
   </div>
   <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#authorCarousel" data-slide="prev">
+  <a class="carousel-control-prev" href="#authorCarousel" data-slide="prev" title="Previous">
     <span class="carousel-control-prev-icon"></span>
   </a>
-  <a class="carousel-control-next" href="#authorCarousel" data-slide="next">
+  <a class="carousel-control-next" href="#authorCarousel" data-slide="next" title="Next">
     <span class="carousel-control-next-icon"></span>
   </a>
   </div>
 </div>
-
-
-
-
 
 <!------ VRFM CHEVALIER - STRIPE CHECKOUT BUTTON HANDLER ----------------------------------->
 <script>
@@ -525,7 +521,7 @@
       });
     });
   })();
-  </script>
+</script>
   
 <!------ VRFG CLASSIC - STRIPE CHECKOUT BUTTON ---------------------------------------------> 
 <script>
@@ -550,8 +546,7 @@
       });
     });
   })();
-  </script>
-
+</script>
 
 <!------ VRFG ESPANIOL - STRIPE CHECKOUT BUTTON ---------------------------------------------> 
 <script>
@@ -579,7 +574,7 @@
 </script>
 
 <!------ Crips Chat Client - Customer Support Tool ------------------------------------------>
-  <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="36d5ce61-e154-4a5c-8575-056dfdd5c8f3";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();$crisp.push(["safe", true])</script>
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="36d5ce61-e154-4a5c-8575-056dfdd5c8f3";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();$crisp.push(["safe", true])</script>
 
 </body>
 </html>
