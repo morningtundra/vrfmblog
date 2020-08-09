@@ -8,3 +8,4 @@ Disallow: /vrfg-es-success.html
 Disallow: /vrfg-success.html
 Disallow: /vrfm-success.html
 Disallow: /vrfm-success-wholesale.html
+Allow: /images/VRFM (580x580).jpg
