@@ -13,20 +13,21 @@ I took inventory of all the assets and resources I had to work with. The two tha
 
 ## Designing a Campaign
 
-I hatched a plan for a marketing campaign that involved giving away promo codes for a free EPUB every day for the first 10 days of August, plus a couple days to broadcast the coming competition and rules. 
+I hatched a plan for a marketing campaign that involved giving away promo codes for a free EPUB every day for the first 10 days of August, plus a couple days to broadcast the competition and rules. 
 
-*Gameifying* your marketing is a great way to encourage engagement and interaction. Otherwise it's just an ad. And ads are just *sooo* 20th Century. The simplest way to gameify your book marketing is to use a strategy from the playbook of pro copywriters which emphasizes *urgency* and *scarcity*.
+*Gameifying* a marketing campaign is a great way to encourage engagement and interaction. Otherwise it's just an ad. And ads are just *sooo* 20th Century. The simplest way to gameify your marketing is to use a strategy from the playbook of pro copywriters which emphasizes *urgency* and *scarcity*.
 
-I could create urgency by posting on a fixed schedule so interested participants would have to be quick off the mark if they wanted to win. They were up against the clock as well as one another. And with only one code per day, they were certainly scarce.
+Urgency could be created by posting on a fixed schedule so participants would have to be quick off the mark if they wanted to win. They would be up against the clock as well as one another. And with only one code per day, they were certainly scarce.
 
-With some punchy copy, I hoped these posts would convert into downloads. And with some engagement and prompting (shamelessly asking) I could get a few reviews. I decided this would be the ultimate goal and the measure of any success. These would stick around long after thus campaign was forgotten about.
+With some punchy copy, I hoped these posts would convert into downloads. And with some engagement and prompting (shamelessly asking) I could get a few reviews. I decided this would be the ultimate goal and the measure of any success. These reviews would persist long after this campaign was forgotten about.
 
-In internet marketing parlance this type of campaign is known as 'targeting the bottom of the sales funnel', where audience interest and intent is already validated. They are after all, following me and engaging with my post content.
+In internet marketing parlance this type of campaign is known as 'targeting the bottom of the sales funnel', where audience interest and intent is already validated. They are followers actively engaging with my post content.
+
 Any subsequent 'conversion' would be a review as opposed to a sale. 
 
 While the size of my IG following is OK, it's not substantial. I would need to goose the visitor traffic by engaging at 'top of funnel' to generate interest and awareness of my campaign. 
 
-I decided to leverage two other Social Media channels - Reddit and Facebook. I would post additional promo codes to affinity groups referring them my IG feed for further daily opportunities to get more free stuff. The prospect of FREE stuff is a great driver of human behavior.
+I decided to leverage two other Social Media channels - Reddit and Facebook. I would post additional promo codes to these affinity groups referring them to the IG feed for further daily opportunities to get more free stuff. The prospect of FREE stuff is a great driver of human behavior.
 
 #### A few important notes on Apple Promo Codes.
 
@@ -38,7 +39,7 @@ I decided to leverage two other Social Media channels - Reddit and Facebook. I w
 
 August is a notoriously quiet part of the business cycle, with all aspects slowing down and not just in Europe. If you want to set a *performance management baseline* this would be the month to do it. So assessing the performance of any future marketing campaign, August would be the month to compare to.
 
-With things being so quiet, I also felt I didn't have much to lose. If the campaign flopped, few would notice. And if it worked, even modestly, it would be an improvement over sitting out the entire month of August.
+With things being so quiet, I didn't have much to lose. If the campaign flopped, few would notice. And if it worked even modestly, it would be an improvement over sitting out the entire month of August.
 
 I decided to use the same ad image throughout the campaign, in an attempt to achieve some visual consistency across social platforms. I also wanted to keep my effort to a minimum as I didn't have a lot of time, and my expectations were low. So this is what I came up with.
 
@@ -52,9 +53,9 @@ I decided to use the same ad image throughout the campaign, in an attempt to ach
 
 Any image processing software can combine these three elements but I used Adobe Illustrator. This image was exported to the [IG Portrait Photo dimensions](https://blog.tailwindapp.com/instagram-image-size-guide-2020/) of 1080 x 1035 pixels (aspect ratio 4:5). This would avoid any awkward cropping or resizing by Instagram after upload.
 
- I then uploaded this image into my free account on Later.com and wrote some IG-friendly copy. Later.com allows you to pre-program and automate all the posts in a campaign. I would set it all up and then leave it to do its thing. I also used Zapier.com to copy these auto-posts to my Pinterest and FB Page. I don't have much of a following in these channels but when volume is so low, every visitor and view counts.
+ I uploaded this image into my free account on Later.com and wrote some IG-friendly copy. Later.com allows you to pre-program and automate all the posts in a campaign. I would set up all 10 posts up and then leave it to do its thing. I also used Zapier.com to copy these auto-posts to my Pinterest and FB Page. I don't have much of a following in these channels but when volume is so low, every visitor and view counts.
 
-I reused a variation of this copy for each of the 10 daily posts and made some minor customizations. These included changes to vocabulary, emojis and hashtags. Urban legend and prevailing opinion on [r/instagram](https://www.reddit.com/r/Instagram/), suggests the IG algorithm objects to repetitive posts and favors judicious use of emoji over hashtags. While the evidence is subjective, it couldn't hurt to throw a few in. 
+I reused a variation of this copy for each of the 10 posts and made some minor customizations. These included changes to vocabulary, emojis and hashtags. Urban legend and prevailing opinion on [r/instagram](https://www.reddit.com/r/Instagram/), suggests the IG algorithm objects to repetitive posts and favors judicious use of emoji over hashtags. While the evidence is subjective, it couldn't hurt to throw a few in. 
 
 > Day [X]! Here’s the promo code for a FREE digital edition of [- My Book Title -].⁠ 🤓⁠ Hit the link, and use it now in the Apple Bookstore: 
 >
@@ -66,7 +67,7 @@ I reused a variation of this copy for each of the 10 daily posts and made some m
 > Good luck! And remember to leave me a 5 * review for a chance to win a hard cover print copy in September!⁠⁠ ⭐ ⭐ ⭐ ⭐ ⭐⁠ If you're not an Apple-fan, head over to the Google Play Bookstore and get it half price throughout August.⁠
 
 ⁠
-I used essentially the same post on reddit [here](https://www.reddit.com/r/rolex/comments/i2bwjc/free_epub_promo_codes/) and [here](https://www.reddit.com/r/VintageWatches/comments/i2baa3/free_epub_promo_codes/). I tried to do the same on FB but group moderators appear to have stolen the codes and never approved the post (the codes got redeemed but the posts never appeared the in the group feeds). 
+I used essentially the same post on reddit [here](https://www.reddit.com/r/rolex/comments/i2bwjc/free_epub_promo_codes/) and [here](https://www.reddit.com/r/VintageWatches/comments/i2baa3/free_epub_promo_codes/). I tried to do the same on FB but group moderators appear to have stolen the codes and never approved the post (the codes got redeemed but the posts never appeared in the group feeds). 
 
 ## Implementing a Campaign 
 
@@ -80,11 +81,15 @@ By **day 2** all the initial coupons had been claimed and people were leaving ap
 
 By this point I had posted 10 coupons to Reddit, 10 to FB and one to IG, for a respectable 4.7% conversion rate (1 / 21 * 100).
 
+Over the course of next few days I would gave out a further 10 codes to people who approached me directly requesting one.
+
 By **day 3** users were getting the hang of things and the posts were getting shared, forwarded and upvoted. Increases in Profile Visits and Website Clicks were an indicator that campaign awareness was growing. 
 
 ![](../images/screencaps/IMG_7139.PNG)
 
-By **day 4** it was clear that there was an appetite for free coupons and those that redeemed them were actually reading the book. I know this as one reader forwarded a typo in an obscure reference number. So much for my diligent proof reading! Users began tagging me in posts and Stories sharing pictures of the EPUB on their iPads (along with their preferred tipple). I also had several readers reach out with direct messages requesting codes. 
+By **day 4** it was clear that there was an appetite for free coupons and those that redeemed them were actually reading the book. I know this as one reader forwarded a typo in an obscure reference number. Diligent proof reading is no substitute crowd sourced scrutiny!
+
+ Users began tagging me in posts and Stories sharing pictures of the EPUB on their iPads (along with their preferred tipple). Several readers reach out with direct messages requesting codes. 
 
 Posts on **days 6 to 10** showed declining reach and engagement. 
 
@@ -99,9 +104,9 @@ Presumably the IG algorithm didn't like the unimaginative, cookie-cutter post st
 
 
 # CONCLUSIONS
-By the end of the campaign, I spent zero dollars and invested about 2 hours in design and setup. I also spent a further ~2 hours monitoring the campaign and interacting with direct messages. These ranged from as little as a 'like' or smiley emoji, to technical support. So roughly a half day of focused effort spread across 12 days.
+By the end of the campaign, I spent zero dollars and invested about 4 hours in total (campaign design, setup, monitoring and interaction). My user engagement ranged from as little as a 'like' or smiley emoji, to technical support. So roughly a half day of focused effort spread across 12 days.
 
-With readers actually reading the book, (rather than just abusing the offer of free stuff) I suspected there might be a delay or lag before seeing reviews appearing in the Bookstore. I guessed it would take someone about a week to work through the ~270 pages. 
+With readers actually reading the book, (rather than just abusing the offer of free stuff) I suspected there might be a delay before seeing reviews appearing in the Bookstore. I guessed it would take someone about a week to work through the ~270 pages. 
 
 So by day 14 I closed the book (pun intended) on this marketing experiment. Any late arriving reviews would be excluded from this evaluation and just consigned to the long-tail of internet marketing.
 
@@ -109,11 +114,17 @@ Apple reported the codes were being redeemed almost as soon as they were release
 
 ![](../images/screencaps/Screen%20Shot%202020-08-13%20at%201.57.12%20PM.png)
 
-By August 13th the Apple Bookstore was reporting only two reviews and three ratings (thankfully all 5*). Some readers had shared screenshots of their reviews, yet these don't appear in my view of the Bookstore. At least three came from Europe but their reviews don't appear in my US-centric view of the bookstore. Either they were blocked by the moderating system or only appear on regional bookstores.
+By August 13th the Apple Bookstore was reporting six reviews from five countries and three 5* ratings (star ratings but no review comments).
 
-This is particularly frustrating as there is no way to assess exactly how many reviews really exist. And no way to determine a campaign ROI.
+![](../images/screencaps/Screen%20Shot%202020-08-15%20at%207.44.53%20AM.png)
 
-In summary, the campaign worked in that the goal was met but not in a measurable way and with any level of detail. Had I spent any real budget, this would have been an unacceptable and disappointing outcome. But for free, it was an acceptable albeit modest result. Time to try something new...
+Investment: 4 hours and 31 Promo codes
+
+Return: 6 positive reviews
+
+Campaign conversion rate: 19% (6 / 31 * 100)
+
+While not an overwhelming viral sensation, I consider it a success. The technique will likely translate to other SM channels such as FB and with a larger following (or friends list) the conversion rate could extrapolate to more worthwhile returns.
 
 ---
 Colin A. White is an independent and self-published author. Find out more at [www.vrfg.io](https://www.vrfg.io)
