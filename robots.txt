@@ -3,7 +3,7 @@ Sitemap: https://www.vrfg.io/sitemap.xml
 Disallow: /pages/
 Disallow: /stylesheets/
 Disallow: /.vscode/
-Disallow: /vrfg-es-success.html
-Disallow: /vrfg-success.html
-Disallow: /vrfm-success.html
-Disallow: /vrfm-success-wholesale.html
+Disallow: /vrfg-es-success
+Disallow: /vrfg-success
+Disallow: /vrfm-success
+Disallow: /vrfm-success-wholesale
