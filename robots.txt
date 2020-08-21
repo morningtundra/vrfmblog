@@ -4,6 +4,10 @@ Disallow: /pages/
 Disallow: /stylesheets/
 Disallow: /.vscode/
 Disallow: /vrfg-es-success
+Disallow: /vrfg-es-success.html
 Disallow: /vrfg-success
+Disallow: /vrfg-success.html
 Disallow: /vrfm-success
+Disallow: /vrfm-success.html
 Disallow: /vrfm-success-wholesale
+Disallow: /vrfm-success-wholesale.html
