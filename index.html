@@ -74,7 +74,7 @@
   
   <!-- Bootstrap -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <script defer src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
   <!-- Font-awesome Icon Pack -->
   <link rel="stylesheet" href="https://cdnjs.Cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -541,7 +541,6 @@
     var image = new Image();
         image.src = source;
         image.alt = "Social Proof Reviews";
-        image.loading="lazy";
         image.addEventListener( "load", function() {
             youtube[ i ].appendChild( image );
         }( i ) );
