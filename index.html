@@ -541,6 +541,7 @@
     var image = new Image();
         image.src = source;
         image.alt = "Social Proof Reviews";
+        image.loading="lazy";
         image.addEventListener( "load", function() {
             youtube[ i ].appendChild( image );
         }( i ) );
