@@ -1,11 +1,6 @@
 User-agent: *
 Sitemap: https://www.vrfg.io/sitemap.xml
-Disallow: /stylesheets/
 Disallow: /.vscode/
-Disallow: /vrfg-es-success
-Disallow: /vrfg-es-success.html
-Disallow: /vrfg-success
-Disallow: /vrfg-success.html
 Disallow: /vrfm-success
 Disallow: /vrfm-success.html
 Disallow: /vrfm-success-wholesale.html
