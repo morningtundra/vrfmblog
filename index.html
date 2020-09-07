@@ -407,7 +407,7 @@
     </div>
 
     <div class="card">
-      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.23.59 PM.jpg" alt="Instagram Post" title="@portalsatova">
+      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.23.59 PM.jpg" alt="Instagram Post" title="@portalsatova" loading=lazy>
     </div>
 
     <div class="card">
@@ -445,7 +445,7 @@
     </div>
 
     <div class="card">
-      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.24.22 PM.jpg" alt="Instagram Post" title="@rolliworks">
+      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.24.22 PM.jpg" alt="Instagram Post" title="@rolliworks" loading=lazy>
     </div>
 
     <div class="card">
@@ -483,7 +483,7 @@
     </div>
 
     <div class="card">
-      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.24.38 PM.jpg" alt="Instagram Post" title="@mywatchh">
+      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.24.38 PM.jpg" alt="Instagram Post" title="@mywatchh" loading=lazy>
     </div>
 
     <div class="card border-0">
@@ -504,7 +504,7 @@
     </div>
 
     <div class="card">
-      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.25.48 PM.jpg" alt="Instagram Post" title="@daddyswatch.de">
+      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.25.48 PM.jpg" alt="Instagram Post" title="@daddyswatch.de" loading=lazy>
     </div>
 
     <div class="card border-0">
@@ -525,11 +525,8 @@
     </div>
 
     <div class="card">
-      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.24.55 PM.jpg" alt="Instagram Post" title="@patina_or_nada">
+      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.24.55 PM.jpg" alt="Instagram Post" title="@patina_or_nada" loading=lazy>
     </div>
-
-
-
 
     <div class="card">
       <div class="youtube" data-embed="V6fWYW3FUHA"> 
@@ -655,6 +652,7 @@
     var image = new Image();
         image.src = source;
         image.alt = "Social Proof Reviews";
+        image.loading = "lazy";
         image.addEventListener( "load", function() {
             youtube[ i ].appendChild( image );
         }( i ) );
