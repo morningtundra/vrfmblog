@@ -20,6 +20,8 @@
 
   <link rel="preconnect" href="https://settings.crisp.chat">
 
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" as="style" onload="this.rel = 'stylesheet'"> 
+
   <link rel="icon" type="image/png" href="images/favicon.ico">
 
   <meta HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC" />
@@ -42,7 +44,7 @@
   <!-- <base href="http://localhost/www.vrfg.io%20Github/"> -->
  
   <!-- JQuery & Bootstrap -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css"> -->
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" crossorigin="anonymous"></script>
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
@@ -547,7 +549,7 @@
     
     <!-- Look inside iframe -->
     <div class="col-sm-12 col-md-6">
-      <a name="lookinside"></a> <iframe title="Look Inside" class="embed-responsive-item" frameborder="0" scrolling="no" src="https://books.google.com/books?id=oWTxDwAAQBAJ&newbks=0&lpg=PR1&pg=PR1&output=embed" width=100% height=700></iframe> 
+      <a name="lookinside"></a> <iframe title="Look Inside" class="embed-responsive-item" loading="lazy" frameborder="0" scrolling="no" src="https://books.google.com/books?id=oWTxDwAAQBAJ&newbks=0&lpg=PR1&pg=PR1&output=embed" width=100% height=700></iframe> 
     </div>
 
     <!-- CTA cards -->
