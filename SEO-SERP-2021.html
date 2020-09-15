@@ -60,12 +60,6 @@
     
   <meta name="keywords" content="SEO, SERP, self-publish, epub, books, marketing">
 
-  <base href="https://www.vrfg.io/">
-
-  <!-- 
-  <base href="http://localhost/www.vrfg.io%20Github/" target="_blank">
-  -->
-
   <title>SEO & SERP in 2021</title>
 
   <!-- Local VRFM Stylesheet -->
@@ -78,7 +72,7 @@
   <!-- Font-awesome Icon Pack -->
   <link rel="stylesheet" href="https://cdnjs.Cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-  <style type="text/css" media="screen">body{position:relative;font:18px "Roboto", Helvetica, Arial, sans-serif;font-display:swap}a{color:#00B7FF}img{display:block;margin-left:auto;margin-right:auto}h2{padding-top:35px;font-family:"Lucida Grande", Helvetica, Arial, sans-serif;font-size:25px;font-display:swap}h1{color:rgb(243, 145, 33);font-family:"Lucida Grande", Helvetica, Arial, sans-serif;font-size:18px;font-display:swap}#confidence{margin-top:50px;margin-bottom:50px}.carousel-inner{background-color:#ddd;padding-top:50px;padding-bottom:50px}.overlay-dark{background-color:rgba(#596164, 0.4)}</style>
+  <style type="text/css" media="screen">body{position:relative;font:18px, Helvetica, Arial, sans-serif;font-display:swap}a{color:#00B7FF}img{display:block;margin-left:auto;margin-right:auto}h2{padding-top:35px;font-family:"Lucida Grande", Helvetica, Arial, sans-serif;font-size:25px;font-display:swap}h1{color:rgb(243, 145, 33);font-family:"Lucida Grande", Helvetica, Arial, sans-serif;font-size:18px;font-display:swap}#confidence{margin-top:50px;margin-bottom:50px}.carousel-inner{background-color:#ddd;padding-top:50px;padding-bottom:50px}.overlay-dark{background-color:rgba(#596164, 0.4)}</style>
 
 </head>
 
@@ -236,11 +230,22 @@
 
 <p> The nature of the changes can be observed through the <a href="https://search.google.com/search-console/about">Google Search Console</a>, which devs and dev-ops should be paying close attention to.</p>
 
-<div class="container bg-light" style="padding:20px;">
+<div class="container bg-light text-center w-100 p-4">
 
-<img src="images/screencaps/Screen Shot 2020-08-23 at 7.36.35 PM.png" width="50%" alt="Core Web Vitals">
-<p class="text-muted small" style="padding:50px 10px;">"You do use the Google Search Console, don't you? ...Do you even lift bro?!"</p>
-<img src="https://1.bp.blogspot.com/-cZvSfEG871E/Xs7lqHw77mI/AAAAAAAAEF4/BCRM01I7VMgplaofXcKpDRewHM3jwAkuwCLcBGAsYHQ/s1600/Search_Page_Experience_Graphic.webp" width="100%" alt="Architecture Diagram">
+  <figure class="figure">
+    <picture>
+      <source srcset="images/Screen%20Shot%202020-08-23%20at%207.36.35%20PM.webp" type="image/webp">
+      <source srcset="images/Screen%20Shot%202020-08-23%20at%207.36.35%20PM.png" type="image/png">
+      <img src="images/Screen%20Shot%202020-08-23%20at%207.36.35%20PM.png" loading="lazy" class="figure-img img-fluid img-thumbnail w-50" alt="Core Web Vitals">
+    </picture>
+    <figcaption class="figure-caption">Google Search Console Core Web Vitals</figcaption>
+  </figure>
+
+  <figure class="figure">
+    <img src="https://1.bp.blogspot.com/-cZvSfEG871E/Xs7lqHw77mI/AAAAAAAAEF4/BCRM01I7VMgplaofXcKpDRewHM3jwAkuwCLcBGAsYHQ/s1600/Search_Page_Experience_Graphic.webp" width="100%" alt="Architecture Diagram" loading="lazy" class="img-thumbnail">
+    <figcaption class="figure-caption">Google Core Web Vitals, Search Signals</figcaption>
+  </figure>
+
 </div>
 
 <p><a href="https://web.dev/vitals/">Core Web Vitals</a> are a deceptively simple entry point for an enormous set of measures. These measures (or signals) fall into domains ranging from Ux to semantic meaning. </p>
@@ -257,7 +262,15 @@
 
 <p class="lead">To understand how Google is thinking about these factors, consider the Lighthouse tool in Chrome Dev Tools. This measures user experience signals in four baskets of measures - Performance, Accessibility, Best Practice, & SEO (I'll ignore the 5th for now). </p>
 
-<img src="images/screencaps/Screen Shot 2020-08-23 at 5.05.53 PM.png" alt="Lighthouse Test Tools" width="100%">
+<figure class="figure text-center">
+  <picture>
+    <source srcset="images/Screen%20Shot%202020-08-23%20at%205.05.53%20PM.webp" type="image/webp">
+    <source srcset="images/Screen%20Shot%202020-08-23%20at%205.05.53%20PM.png" type="image/png">
+    <img src="images/Screen%20Shot%202020-08-23%20at%205.05.53%20PM.png" loading="lazy" class="figure-img img-fluid img-thumbnail w-100" alt="Core Web Vitals">
+  </picture>
+  <figcaption class="figure-caption">Google Lighthouse Test Domains</figcaption>
+</figure>
+
 
 <blockquote class="blockquote bg-light" style="padding:50px;"><small>"Many SEO pseudo-professionals continue to claim page speed is not and will never be a ranking factor. They have their heads in the sand and are going to get their posteriors royally kicked."  <footer class="blockquote-footer">morningtundra</footer></small></blockquote>
 
@@ -280,7 +293,15 @@
 
 <p>This basket of technical measures requires hands on engineering effort and code refactoring to move the needle. And in doing so, your pages begin to resemble Webapps, the first step towards embracing AMP.</p>
 
-<img src="images/screencaps/Screen Shot 2020-08-23 at 7.49.03 PM.png" alt="Lighthouse Score Weights" width="100%" style="padding:25px;">
+<figure class="figure text-center">
+  <picture>
+    <source srcset="images/Screen%20Shot%202020-08-23%20at%207.49.03%20PM.webp" type="image/webp">
+    <source srcset="images/Screen%20Shot%202020-08-23%20at%207.49.03%20PM.png" type="image/png">
+    <img src="images/Screen%20Shot%202020-08-23%20at%207.49.03%20PM.png" loading="lazy" class="figure-img img-fluid img-thumbnail w-100" alt="Lighthouse Score Weights">
+  </picture>
+  <figcaption class="figure-caption">Google Lighthouse Score Weights</figcaption>
+</figure>
+
 
 <p>Until recently only elite developers working on high traffic assets had to worry about this kind of client side code performance. After all, the network and the client has always been the bottleneck. Some notable trends have reversed this paradigm and gone mostly unnoticed.</p>
 <p>
@@ -321,12 +342,25 @@
 
 <p>This page was hand tuned to achieve high Lighthouse scores. The structured data was been meticulously crafted and validated with the Google Structured Data tool. The finished page was then submitted through the Google Search Console.</p>
 
-<img src="images/screencaps/Screen Shot 2020-08-27 at 5.04.29 PM.png" alt="Google Lighthouse Results" width="100%" style="padding:25px;">
+<figure class="figure text-center">
+  <picture>
+    <source srcset="images/Screen%20Shot%202020-08-27%20at%205.04.29%20PM.webp" type="image/webp">
+    <source srcset="images/Screen%20Shot%202020-08-27%20at%205.04.29%20PM.png" type="image/png">
+    <img src="images/Screen%20Shot%202020-08-27%20at%205.04.29%20PM.png" loading="lazy" class="figure-img img-fluid img-thumbnail w-100" alt="Google Lighthouse Results">
+  </picture>
+  <figcaption class="figure-caption">Google Lighthouse Results</figcaption>
+</figure>
 
 <p>Within less than a week, this report was ranking on Page #1 at position #3!</p>
 
-<img src="images/screencaps/screencapture-google-search-2020-08-27-16_50_20.png" alt="Google Search Screen" width="100%" style="padding:25px;">
-
+<figure class="figure text-center">
+  <picture>
+    <source srcset="images/screencapture-google-search-2020-08-27-16_50_20.webp" type="image/webp">
+    <source srcset="images/screencapture-google-search-2020-08-27-16_50_20.png" type="image/png">
+    <img src="images/screencapture-google-search-2020-08-27-16_50_20.png" loading="lazy" class="figure-img img-fluid img-thumbnail w-100" alt="Google Lighthouse Results">
+  </picture>
+  <figcaption class="figure-caption">Google Search Page Position</figcaption>
+</figure>
 
             </div>
 

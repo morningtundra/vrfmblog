@@ -192,9 +192,14 @@
           <h2>CONDITION</h2>
           <p> 
             <figure class="figure float-right p-5">
-            <img src="images/IMG_7195.jpg" class="figure-img img-fluid mt-n5" alt="Destroyed Rolex Watch">
+              <picture>
+                <source srcset="images/IMG_7195.webp" type="image/webp">
+                <source srcset="images/IMG_7195jpg" type="image/jpeg">
+                <img class="card-img" src="images/IMG_7195.jpg" alt="Destroyed Rolex Watch" loading="lazy">
+              </picture>
             <figcaption class="figure-caption">A well used Rolex watch. Credit Someone on Instagram</figcaption>
           </figure>
+
             A watch that has been heavily worn will be scratched and scuffed. It may have been poorly polished, softening and rounding the case shape. It may be corroded with moisture in the movement or pitting in the case. Harsh sunlight may have damaged the dial paint and lume material. <a href="http://localhost/www.vrfg.io%20Github/Vintage-Rolex-Bracelets" alt="Article on Rolex Bracelets">The bracelet may be stretched with links missing</a>. 
             
         </p>
@@ -258,25 +263,44 @@
 
         <div class="col-md-4" style="padding-top:30px;">
           <div class="card mb-4 shadow-sm" style="padding-top:20px;">
-            <img src="images/VRFM (580x580).jpg" width="75%" style="border:0" alt="VRFM book image"> 
-            <div class="card-body">
-              <p class="card-">
-                <h5>The Vintage Rolex Field Manual</h5>
-                <h6>Hard Cover Chevalier Print Edition</h6>
-              </p>
-              <p class="text-muted">
-                ISBN: 978-0578630823<br/>
-                Size: 8.5 x 0.9 x 11 inches<br/>
-                Weight: 2.5 lbs<br/>
-                Format: Hardcover<br/>
-                Published: 2020<br/>
-              </p><hr/>
-              <div class="d-flex justify-content-center align-items-center">
-                <div class="btn-group">
-                  <button style="background-color:#04611b;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-price_1H4uATEsA8D4zzn6e6HXXsNV" role="link" type="button">Buy Now $85</button><div id="error-message-vrfm"></div>
-                </div>
-              </div>
-              
+
+
+          <!-- Responsive Next-Gen Image with fallback -->
+          <picture>
+            <source srcset="images/VRFM-mock.webp" type="image/webp">
+            <source srcset="images/VRFM-mock.jpg" type="image/jpeg">
+            <img src="images/VRFM-mock.jpg" width="75%" style="border:0" alt="VRFM book image"> 
+          </picture>
+
+          <div class="card-body text-center ">
+            <p class="card-">
+              <h5>The Vintage Rolex Field Manual</h5>
+              <h6>Hard Cover Chevalier Print Edition</h6>
+            </p>
+
+            <!-- BUY Button --> 
+            <div class="p-3">
+              <button style="background-color:#04611b;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;display:block;margin-left:auto;margin-right:auto;" id="checkout-button-price_1H4uATEsA8D4zzn6e6HXXsNV" role="link" type="button">Buy Now $85.00</button><div id="error-message-vrfm"></div>
+            </div>
+
+            <p class="text-center text-secondary font-weight-light">
+              ISBN: 978-0578630823<br/>
+              Size: 8.5 x 0.9 x 11 inches<br/>
+              Weight: 2.5 lbs<br/>
+              Format: Hardcover<br/>
+              Published: 2020<br/>
+            </p>
+            
+            <hr width="25%">
+
+            <p class="text-center text-secondary font-weight-light">
+              196 vintage models<br/>
+              1,400+ distinct references<br/>
+              Timelines, charts, tables<br/>
+              Examples, photos, history<br/> 
+              Watchmakers, restorers, dealers<br/>
+          </p>
+
             </div>
           </div>
         </div>
@@ -334,9 +358,32 @@
 
     </div>
   </section>
-
             
 </main>
+
+
+<!-- Disqus Comment Handler -->
+<div>
+  <div class="container p-5">
+    <h2>Leave me a comment!</h2>
+  </div>
+
+  <div class="container p-5" id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  this.page.url = 'Vintage-Rolex-Pricing';  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = 'Vintage-Rolex-Pricing'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://rolexnumberwizard-com-1.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
 </body>
 
 <!-- Stripe Credit Card Processor - Button Handler -->

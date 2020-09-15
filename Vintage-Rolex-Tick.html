@@ -67,12 +67,6 @@
     
   <meta name="keywords" content="Vintage, Rolex, Oyster, Movements, Caliber, Deadbeat, Seconds">
 
-
-  <base href="https://www.vrfg.io/">
-  
-  <!-- <base href="http://localhost/www.vrfg.io%20Github/"> -->
-
-
   <title>The Vintage Rolex Field Guide Book Series</title>
 
   <link rel="icon" type="image/png" href="images/favicon.ico">
@@ -211,7 +205,11 @@
 
           <p>
             <figure class="figure float-left p-5 mt-n5 ml-n5 mb-n3">
-              <img src="images/Rolex_Datejust_Oysterquartz.jpg" class="figure-img img-fluid" alt="Vintage Rolex Tru Beat 6556">
+              <picture>
+                <source srcset="images/Rolex_Datejust_Oysterquartz.webp" type="image/webp">
+                <source srcset="images/Rolex_Datejust_Oysterquartz.jpg" type="image/jpeg">
+                <img src="images/Rolex_Datejust_Oysterquartz.jpg" class="figure-img img-fluid" alt="Vintage Rolex Tru Beat 6556">
+              </picture>
               <figcaption class="figure-caption">Rolex Oysterquartz Datejust</figcaption>
             </figure>
             Legitimate Rolex models DO tick. Some are more obvious than others. For example, all the Oysterquarts models tick thanks to their quartz movements. Yes, Rolex made battery-powered quartz watches!
@@ -219,7 +217,11 @@
 
           <p>
             <figure class="figure float-left p-5 mt-n5 ml-n5">
-              <img src="images/Rolex-Tru-Beat-6556.jpg" class="figure-img img-fluid" alt="Vintage Rolex Tru Beat 6556">
+              <picture>
+                <source srcset="images/Rolex-Tru-Beat-6556.webp" type="image/webp">
+                <source srcset="images/Rolex-Tru-Beat-6556.jpg" type="image/jpeg">
+                <img src="images/Rolex-Tru-Beat-6556.jpg" class="figure-img img-fluid" alt="Vintage Rolex Tru Beat 6556">
+              </picture>
               <figcaption class="figure-caption">Rolex Tru Beat ref 6556. Credit Amsterdam Watch Co.</figcaption>
             </figure>
             The reference few people know about is the Rolex Tru-Beat Reference 6556, with a rare “deadbeat seconds hand”. This is a mechanical movement designed to tick once per second.
@@ -238,8 +240,6 @@
           <p>
             YES, genuine vintage Rolex genuinely tick, while most modern models tick imperceptibly.
           </p>
-
-       
          
         </div>
       </div>
@@ -250,29 +250,46 @@
 
         <div class="col-md-4" style="padding-top:30px;">
           <div class="card mb-4 shadow-sm" style="padding-top:20px;">
-            <img src="images/VRFM (580x580).jpg" width="75%" style="border:0" alt="VRFM book image"> 
-            <div class="card-body">
-              <p class="card-">
-                <h5>The Vintage Rolex Field Manual</h5>
-                <h6>Hard Cover Chevalier Print Edition</h6>
-              </p>
-              <p class="text-muted">
-                ISBN: 978-0578630823<br/>
-                Size: 8.5 x 0.9 x 11 inches<br/>
-                Weight: 2.5 lbs<br/>
-                Format: Hardcover<br/>
-                Published: 2020<br/>
-              </p><hr/>
-              <div class="d-flex justify-content-center align-items-center">
-                <div class="btn-group">
-                  <button style="background-color:#04611b;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-price_1H4uATEsA8D4zzn6e6HXXsNV" role="link" type="button">Buy Now $85</button><div id="error-message-vrfm"></div>
-                </div>
-              </div>
-              
+
+          <!-- Responsive Next-Gen Image with fallback -->
+          <picture>
+            <source srcset="images/VRFM-mock.webp" type="image/webp">
+            <source srcset="images/VRFM-mock.jpg" type="image/jpeg">
+            <img src="images/VRFM-mock.jpg" width="75%" style="border:0" alt="VRFM book image"> 
+          </picture>
+
+          <div class="card-body text-center ">
+            <p class="card-">
+              <h5>The Vintage Rolex Field Manual</h5>
+              <h6>Hard Cover Chevalier Print Edition</h6>
+            </p>
+
+            <!-- BUY Button --> 
+            <div class="p-3">
+              <button style="background-color:#04611b;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;display:block;margin-left:auto;margin-right:auto;" id="checkout-button-price_1H4uATEsA8D4zzn6e6HXXsNV" role="link" type="button">Buy Now $85.00</button><div id="error-message-vrfm"></div>
             </div>
+
+            <p class="text-center text-secondary font-weight-light">
+              ISBN: 978-0578630823<br/>
+              Size: 8.5 x 0.9 x 11 inches<br/>
+              Weight: 2.5 lbs<br/>
+              Format: Hardcover<br/>
+              Published: 2020<br/>
+            </p>
+            
+            <hr width="25%">
+
+            <p class="text-center text-secondary font-weight-light">
+              196 vintage models<br/>
+              1,400+ distinct references<br/>
+              Timelines, charts, tables<br/>
+              Examples, photos, history<br/> 
+              Watchmakers, restorers, dealers<br/>
+          </p>
+              
           </div>
         </div>
-
+      </div>
 
         <div class="col-md-6" >
           <h2>What To Do Next</h2>
@@ -326,9 +343,31 @@
 
     </div>
   </section>
-
             
 </main>
+
+<!-- Disqus Comment Handler -->
+<div>
+  <div class="container p-5">
+    <h2>Leave me a comment!</h2>
+  </div>
+
+  <div class="container p-5" id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  this.page.url = 'Vintage-Rolex-Tick';  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = 'Vintage-Rolex-Tick'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://rolexnumberwizard-com-1.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
 </body>
 
 <!-- Stripe Credit Card Processor - Button Handler -->

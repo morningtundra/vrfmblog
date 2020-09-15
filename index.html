@@ -45,9 +45,6 @@
   <meta name="description" content= "Learn to find, price and buy the vintage watch of your dreams without breaking your heart or the bank. The Vintage Rolex Field Guide is a Play Book for success."/>
     
   <meta name="keywords" content="Vintage, Rolex, Watches, Field, Guide, Manual, Chevalier, buy, sell, learn,superlative, chronometer, cosmograph, perpetual, datejust, submariner, explorer, daytona, sea-dweller, oyaterquartz, cellini" />
-  
-  <base href="https://www.vrfg.io/">
-  <!-- <base href="http://localhost/www.vrfg.io%20Github/"> -->
  
   <!-- JQuery & Bootstrap -->
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" crossorigin="anonymous"></script>
@@ -225,8 +222,13 @@
     <a name="bin"></a>
     <!-- Column Left -->
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 p-5" style="float:left;"> 
-      <!-- Hero Book Image -->
-      <img src="images/VRFM (580x580).jpg" class="img-fluid p-5" alt="Buy your copy right now! Or order it from yur favorite bookstore by the ISBN number"/>
+
+      <!-- Responsive Next-Gen Image with fallback -->
+      <picture>
+        <source srcset="images/VRFM-mock.webp" type="image/webp">
+        <source srcset="images/VRFM-mock.jpg" type="image/jpeg">
+        <img src="images/VRFM-mock.jpg" style="border:0" alt="VRFM book image"> 
+      </picture>
 
       <!-- BUY Button --> 
       <div style="padding-top:10px;">
@@ -406,7 +408,11 @@
     </div>
 
     <div class="card">
-      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.23.59 PM.jpg" alt="Instagram Post" title="@portalsatova" loading="lazy">
+      <picture>
+        <source srcset="images/Screen-Shot-2020-09-05-1.23.59-PM.webp" type="image/webp">
+        <source srcset="images/Screen-Shot-2020-09-05-1.23.59-PM.jpg" type="image/jpeg">
+      <img class="card-img" src="images/Screen-Shot-2020-09-05-1.23.59-PM.jpg" alt="Instagram Post" title="@portalsatova" loading="lazy">
+      </picture>
     </div>
 
     <div class="card">
@@ -444,7 +450,11 @@
     </div>
 
     <div class="card">
-      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.24.22 PM.jpg" alt="Instagram Post" title="@rolliworks" loading="lazy">
+      <picture>
+        <source srcset="images/Screen-Shot-2020-09-05-1.24.22-PM.webp" type="image/webp">
+        <source srcset="images/Screen-Shot-2020-09-05-1.24.22-PM.jpg" type="image/jpeg">
+        <img class="card-img" src="images/Screen-Shot-2020-09-05-1.24.22-PM.jpg" alt="Instagram Post" title="@rolliworks" loading="lazy">
+      </picture>
     </div>
 
     <div class="card">
@@ -482,7 +492,11 @@
     </div>
 
     <div class="card">
-      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.24.38 PM.jpg" alt="Instagram Post" title="@mywatchh" loading="lazy">
+      <picture>
+        <source srcset="images/Screen-Shot-2020-09-05-1.24.38-PM.webp" type="image/webp">
+        <source srcset="images/Screen-Shot-2020-09-05-1.24.38-PM.jpg" type="image/jpeg">
+        <img class="card-img" src="images/Screen-Shot-2020-09-05-1.24.38-PM.jpg" alt="Instagram Post" title="@rolliworks" loading="lazy">
+      </picture>
     </div>
 
     <div class="card border-0">
@@ -503,7 +517,11 @@
     </div>
 
     <div class="card">
-      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.25.48 PM.jpg" alt="Instagram Post" title="@daddyswatch.de" loading="lazy">
+      <picture>
+        <source srcset="images/Screen-Shot-2020-09-05-1.24.48-PM.webp" type="image/webp">
+        <source srcset="images/Screen-Shot-2020-09-05-1.24.48-PM.jpg" type="image/jpeg">
+        <img class="card-img" src="images/Screen-Shot-2020-09-05-1.24.48-PM.jpg" alt="Instagram Post" title="@rolliworks" loading="lazy">
+      </picture>
     </div>
 
     <div class="card border-0">
@@ -524,7 +542,11 @@
     </div>
 
     <div class="card">
-      <img class="card-img" src="images/Screen Shot 2020-09-05 at 1.24.55 PM.jpg" alt="Instagram Post" title="@patina_or_nada" loading="lazy">
+      <picture>
+        <source srcset="images/Screen-Shot-2020-09-05-1.24.55-PM.webp" type="image/webp">
+        <source srcset="images/Screen-Shot-2020-09-05-1.24.55-PM.jpg" type="image/jpeg">
+        <img class="card-img" src="images/Screen-Shot-2020-09-05-1.24.55-PM.jpg" alt="Instagram Post" title="@rolliworks" loading="lazy">
+      </picture>
     </div>
 
     <div class="card bg-light">
@@ -564,7 +586,15 @@
         <!-- BIN CTA Print Edition Card-->
         <div class="card bg-white">
 
-          <img src="images/VRFM (580x580).jpg" class="img-fluid pb-4 card-img-top" alt="Print Edition" /> 
+          <!-- Responsive Next-Gen Image with fallback -->
+          <div class="text-center">
+            <picture>
+              <source srcset="images/VRFM-mock.webp" type="image/webp">
+              <source srcset="images/VRFM-mock.jpg" type="image/jpeg">
+              <img src="images/VRFM-mock.jpg" style="width:85%; border:0;" alt="VRFM book image"> 
+            </picture>
+          </div>
+        
           
           <div class="card-body">
             <p class="card-text">
@@ -582,7 +612,13 @@
         <!-- BIN CTA Digital Edition Card -->
         <div class="card">
 
-          <img src="images/iPad Mockup VRFM.png" class="img-fluid p-5 card-img-top" alt="Digital Edition"/> 
+          <div class="text-center">
+            <picture>
+              <source srcset="images/iPad-Mockup-VRFM.webp" type="image/webp">
+              <source srcset="images/iPad-Mockup-VRFM.jpg" type="image/jpeg">
+              <img src="images/iPad-Mockup-VRFM.jpg" style="width:70%; border:0;" alt="VRFM digital edition ipad image"> 
+            </picture>
+          </div>
 
           <div class="card-body">
             <p class="card-text">Digital editions are available as Fixed Layout EPUB files, and will work on nearly all devices from tablets to desktops.</p>
@@ -591,7 +627,16 @@
               <p>
                 <!-- Google Bookstore --> 
                 <p class="p-2">
-                <a href="https://books.google.com/books/about?id=oWTxDwAAQBAJ"><img src="images/google-play-icon.png" width="141px" loading="lazy" alt="Google Play Books icon" title="Google Play Bookstore"></a>
+                <a href="https://books.google.com/books/about?id=oWTxDwAAQBAJ">
+
+                  <!-- Responsive Next-Gen Image with fallback -->
+                  <picture>
+                    <source srcset="images/google-play-icon.webp" type="image/webp">
+                    <source srcset="images/google-play-icon.jpg" type="image/jpeg">
+                    <img src="images/google-play-icon.png" width="141px" loading="lazy" alt="Google Play Books icon" title="Google Play Bookstore">
+                  </picture>
+                
+                </a>
                 </p>
                 <!-- Apple Bookstore --> 
                 <p class="p-2">
