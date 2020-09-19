@@ -1,0 +1,13 @@
+/* BOOK CREDITS */
+Author: Colin A. White
+Editor: Brijit Reid
+Design & Typesetting: Jenny Goodhand
+
+Contributers:
+Foo
+
+/* WEBSITE */
+
+Design: Morningtundra
+Development: Morningtundra
+Host: Github
