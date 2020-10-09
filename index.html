@@ -274,7 +274,7 @@
 
       <!-- BUY Button --> 
       <div style="padding-top:10px;">
-        <button style="background-color:#04611b;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;display:block;margin-left:auto;margin-right:auto;" id="checkout-button-price_1H4uE5EsA8D4zzn6iOjx7gTs" role="link" type="button">Get Yours Now US $45.00</button><div id="error-message-vrfm"></div>
+        <button style="background-color:#04611b;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;display:block;margin-left:auto;margin-right:auto;" id="checkout-button-price_1H4uGZEsA8D4zzn6KMymm2ty" role="link" type="button">Get Yours Now US $45.00</button><div id="error-message-vrfm"></div>
       </div>
 
       <hr width="30%">
@@ -520,10 +520,10 @@
 <script type="text/javascript">
   (function() {
   var stripe = Stripe('pk_live_DMbRjGLXjFtrFbqCyzjinQcA00he9P2hTa');
-  var checkoutButton = document.getElementById('checkout-button-price_1H4uE5EsA8D4zzn6iOjx7gTs');
+  var checkoutButton = document.getElementById('checkout-button-price_1H4uGZEsA8D4zzn6KMymm2ty');
   checkoutButton.addEventListener('click', function () {
       stripe.redirectToCheckout({
-      lineItems: [{price: 'price_1H4uATEsA8D4zzn6e6HXXsNV', quantity: 1}],
+      lineItems: [{price: 'price_1H4uGZEsA8D4zzn6KMymm2ty', quantity: 1}],
       mode: 'payment',
       successUrl: window.location.protocol + '//vrfg.io/vrfg-success',
       cancelUrl: window.location.protocol + '//vrfg.io/',
